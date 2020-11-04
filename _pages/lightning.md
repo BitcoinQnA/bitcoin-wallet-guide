@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Bitcoin Core
-permalink: /core/
+title: Lightning Wallets
+permalink: /lightning/
 ---
 
 'Bitcoin Core' is the name of the [software](https://github.com/bitcoin/bitcoin) at the heart of **every** node implementation listed on this website. It is the ruleset that all Bitcoin users agree upon. The rest of this page covers the graphical user interface that is built around this software and is maintained by Core [developers](https://github.com/bitcoin/bitcoin/graphs/contributors).  
