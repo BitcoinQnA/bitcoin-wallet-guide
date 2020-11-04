@@ -42,7 +42,6 @@ Bitcoin wallets can come in many forms. Below are the four main categories they 
 Is your project missing? Please create an [issue](https://github.com/BitcoinQnA/bitcoin-wallet-guide) and we will check you out.
 
 -  **Mobile Wallets** - Wallets that run on your phone
-   - [Aqua Wallet](https://blockstream.com/aqua/)
    - [Blockstream Green](https://blockstream.com/green/)
    - [Blue Wallet](https://bluewallet.io/)
    - [Electrum](https://play.google.com/store/apps/details?id=org.electrum.electrum&hl=en)
