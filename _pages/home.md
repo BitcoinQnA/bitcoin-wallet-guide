@@ -12,33 +12,13 @@ There goes a famous saying amongst Bitcoiners, ***'not your keys, not your coins
 
 ###  Feature Criteria 
 
-To be featured in this wallet guide, a wallet must meet these base criteria
+To be featured in this wallet guide, a wallet must meet these base criteria.
 
   1.  Be non custodial
-  2.  Be open source
+  2.  Be open source (non hardware wallets)
   3.  Be actively maintained
-  4.  Be mainly focused on Bitcoin and/or Lightning
+  4.  Be primarily focused on Bitcoin and/or Lightning
   
-***
-
-### Types of wallet
-
-Bitcoin wallets can come in many forms. Below are the four main categories they fit into and the external links to the projects covered on this site.
-
-Is your project missing? Please create an [issue](https://github.com/BitcoinQnA/bitcoin-wallet-guide) and we will check you out.
-
--  **Mobile Wallets** - Wallets that run on your phone
-   - [Samourai Wallet](https://samouraiwallet.com)
-
--  **Desktop Wallets** - Wallets that run on your computer
-    - [Samourai Wallet](https://samouraiwallet.com)
-
--  **Hardware Wallets** - Special purpose physical wallets designed for keeping your private keys offline
-    - [Samourai Wallet](https://samouraiwallet.com)
-    
--  **Lightning Wallets** - Wallets native to the Lightning Network
-    - [Samourai Wallet](https://samouraiwallet.com)
-
 ***
 
 ### Considerations
@@ -47,12 +27,53 @@ When choosing which type of wallet you want to use, there are a few things you s
 
   1. Can you connect the wallet to your own node?
   2. Is the wallet available on your chosen platform?
-  3. How easy is the wallet to use based on your technical abilities?
-  4. Does the wallet use Tor?
+  3. How easy is the wallet to use?
+  4. Does the wallet run over Tor?
   5. Does the wallet support PSBT?
   6. Do you require access to the Lightning network?
   7. Does the wallet offer coin control?
   8. Does the wallet support coinjoin?
+
+### Types of wallet
+
+Bitcoin wallets can come in many forms. Below are the four main categories they fit into and the external links to the projects covered on this site.
+
+Is your project missing? Please create an [issue](https://github.com/BitcoinQnA/bitcoin-wallet-guide) and we will check you out.
+
+-  **Mobile Wallets** - Wallets that run on your phone
+   - [Aqua Wallet](https://blockstream.com/aqua/)
+   - [Blockstream Green](https://blockstream.com/green/)
+   - [Blue Wallet](https://bluewallet.io/)
+   - [Electrum](https://play.google.com/store/apps/details?id=org.electrum.electrum&hl=en)
+   - [Fully Noded](https://fullynoded.app/)
+   - [Hodl Wallet](https://hodlwallet.com/)
+   - [Hexa](https://hexawallet.io/)
+   - [Muun](https://muun.com/)
+   - [Mycelium](https://wallet.mycelium.com/)
+   - [Samourai Wallet](https://samouraiwallet.com)
+   
+   
+-  **Desktop Wallets** - Wallets that run on your computer
+    - [Bitcoin Core](https://bitcoin.org/en/bitcoin-core/features/)
+    - [Blockstream Green](https://blockstream.com/green/)
+    - [Electrum](https://electrum.org)
+    - [Fully Noded](https://fullynoded.app/)
+    - [Specter Desktop](https://github.com/cryptoadvance/specter-desktop)
+    - [Sparrow Wallet](https://www.sparrowwallet.com/)
+    - [Wasabi Wallet](https://wasabiwallet.io/)
+
+-  **Hardware Wallets** - Dedicated devices for keeping your private keys offline
+    - [Bitbox](https://shiftcrypto.ch/)
+    - [Cobo Vault](https://cobo.com/hardware-wallet)
+    - [Coldcard](https://coldcardwallet.com/)
+    - [Specter DIY](https://github.com/cryptoadvance/specter-diy)
+    - [Trezor](https://trezor.io/start/)
+    
+-  **Lightning Wallets** - Wallets native to the Lightning Network
+    - [Breez](https://breez.technology/)
+    - [Eclair](https://play.google.com/store/apps/details?id=fr.acinq.eclair.wallet.mainnet2)
+    - [Phoenix](https://phoenix.acinq.co/)
+    - [Zap](https://zaphq.io/)
 
 ***
 
