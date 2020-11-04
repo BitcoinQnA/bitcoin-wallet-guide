@@ -21,31 +21,28 @@ INSERT MOBILE WALLET PROS AND CONS PARAGRAPH
 
 ## Blockstream Green
 
-INSERT BRIEF DESC
+[Blockstream Green](https://www.blockstream.com/green/) provides a simple wallet setup and user interface. Green supports multiple devices, enabling you to have the same wallet on your mobile and computer simultaneously. Sending a transaction is done through a 2-of-2 [multi-sig setup](https://help.blockstream.com/hc/en-us/articles/900001388366-What-does-Blockstream-Green-s-multisig-protect-from-).  
 
-INSET HOME SCREEN PIC
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/ui_showcase_2048x1536-728x546.jpg" class=responsive width="400" height="300" maxheight="300">
 
-<img src="https://raw.githubusercontent.com/BitcoinQnA/node-guide/master/images/Screenshot%20from%202020-10-25%2009-48-47.png" class=responsive width="300" height="500" maxheight="500">
-
-
-### Available on
-
-
-
-**Community Features**
-* RTL
-* Electrum Server (*Electrs*)
-* BTC Explorer
-* Samourai Dojo + Whirlpool
+### Noteable Features
+* Connect to own node
+* Support for certain hardware wallets
+* Create multiple accounts
 * Runs over Tor
 
+### Noteable Limitations
+* No coin control
+* No native segwit
+
+### Available on
+* iOS + Android
 
 ### Other resources
-
-* [Codebase]()
-* [Telegram]()
-* [Guide Page]()
-* [Setup Video]()
+* [Codebase](https://github.com/Blockstream)
+* [Documentation](https://help.blockstream.com/hc/en-us/categories/900000056183-Blockstream-Green)
+* [Telegram](https://t.me/blockstream_green)
+* [Setup Video](https://youtu.be/uO3Zi9D5b0Y)
 
 ***
 
