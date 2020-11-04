@@ -1,7 +1,7 @@
 ---
 layout: page
-title: DIY Build
-permalink: /do-it-yourself/
+title: Mobile Wallets
+permalink: /mobile/
 ---
 
 DIY node implementations require you to purchase and build your own hardware, this gives you greater freedom to build to your own budgetary requirements. All implementations below are still designed to run on single board computers (SBC) like the Raspberry Pi, but some offer other options such as the more powerful [RockPro 64](https://www.pine64.org/rockpro64/). DIY nodes remove the hardware risk we discussed in the [Plug + Play](/plug-and-play) page because you are free to buy your hardware from anywhere you like. 
