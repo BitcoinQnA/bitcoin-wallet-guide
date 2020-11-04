@@ -14,7 +14,7 @@ We aim to keep this site up to date with the development or additions of new nod
 <p align="center">
   <a href="https://twitter.com/BitcoinQ_A">By Bitcoin Q+A</a> |
   <a href="https://btcpayjungle.com/apps/2kYZPktoVSxfp4fWaZjcbnbPpCut/pos">Support</a> |
-  <a href="https://github.com/BitcoinQnA/node-guide">Create a PR</a> 
+  <a href="https://github.com/BitcoinQnA/bitcoin-wallet-guide">Create a PR</a> 
   <br><br>
 </p>
 
