@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Why run a node?
+title: What is a Bitcoin Wallet?
 permalink: /home/
 ---
 
-A node is a computer that runs the Bitcoin software. Your node is your own version of the Bitcoin blockchain and ruleset. Think of it as your own gateway to the Bitcoin ecosystem. It broadcasts transactions, verifies the bitcoin you receive are legitimate and maintains your privacy by allowing you to participate without reliance on anyone. When you connect your wallet to your node, you are not trusting anyone else to verify your transactions.
+A Bitcoin wallet is a just like your real wallet, it's a method of storing value. The main difference with a Bitcoin wallet is that it doesn't actually store bitcoin inside, bitcoins exist solely on the distributed ledger (blockchain). A bitcoin wallet stores the keys required sign the transactions that send bitcoin. When you sign a transaction with your wallet, you show proof that you have the right to spend those coins. This proof can be checked by anyone running a node which stops anyone cheating the system.
 
-A node helps to protect you from bad actors and it also keeps the network decentralised. If you do not have your own, you are trusting in someone else's node to tell you how much bitcoin you have and to broadcast/receive your transactions for you. Read a more in-depth look at the 'why' of Bitcoin nodes [here](https://armantheparman.com/why-should-you-run-your-own-bitcoin-node/).
+There goes a famous saying amongst Bitcoiners, ***Not your keys, not your coins***. The phrase is aimed to drive home the fact that, if you are not the custodian of your wallet's private keys, you essentially have no bitcoin. A good example of this is buying bitcoin on an exchange and leaving it there. You may have a claim to x amount of bitcoin, but the exchange is actually in control of the private keys. What ***you*** actually have is an IOU that can be taken from you for various reasons, at any moment. By taking control of your bitcoin in a non custodial wallet, you remove this risk.
 
-***Your node, your rules.***
 
 ***
+
 
 ### Considerations
 
