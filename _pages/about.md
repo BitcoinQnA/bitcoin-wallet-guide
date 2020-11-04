@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Bitcoin Wallet Guide was built to educate Bitcoiners on the importance of holding their own keys. Our aim is to produce an information hub that provides you with enough knowledge to decide which wallet(s) are right for you.
+Bitcoin Wallet Guide was built to educate Bitcoiners on the importance of holding their own keys. Our aim is to produce an information hub that provides anyone with enough knowledge to decide which wallet(s) are right for them.
 
 ***Not your keys, not your coins.***
 
