@@ -15,9 +15,8 @@ There goes a famous saying amongst Bitcoiners, ***'not your keys, not your coins
 To be featured in this wallet guide, a wallet must meet these base criteria.
 
   1.  Be non custodial
-  2.  Be open source (non hardware wallets)
+  2.  Be open source (apart from hardware wallets)
   3.  Be actively maintained
-  4.  Be primarily focused on Bitcoin and/or Lightning
   
 ***
 
