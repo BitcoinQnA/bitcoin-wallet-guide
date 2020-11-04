@@ -4,7 +4,7 @@ title: Mobile Wallets
 permalink: /mobile/
 ---
 
-INSERT MOBILE WALLET PROS AND CONS PARAGRAPH
+Mobile wallets provide the ultimate in convenience when interacting with Bitcoin. The main benefit mobile wallets bring is they're on a device we generally have with us 24/7 which makes transacting anytime, any place, easy. This 24/7 convenience factor comes with the trade-off that it may not be suitable for storing a large proportion of your wealth on. However, many users do store larger amounts in a mobile wallet on a dedicated device kept somewhere secure.    
 
 ### Table of Contents
 
