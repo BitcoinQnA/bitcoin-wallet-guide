@@ -34,6 +34,8 @@ When choosing which type of wallet you want to use, there are a few things you s
   7. Does the wallet offer coin control?
   8. Does the wallet support coinjoin?
 
+***
+
 ### Types of wallet
 
 Bitcoin wallets can come in many forms. Below are the four main categories they fit into and the external links to the projects covered on this site.
