@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Plug + Play
-permalink: /plug-and-play/
+title: Desktop Wallets
+permalink: /desktop/
 ---
 
 Plug and Play node boxes offer a convenient way to run your own node. Most run on a variation of a single board computer such as a [Raspberry Pi](https://www.raspberrypi.org/). You simply choose your specification (*if multiples are offered*), wait for it to be delivered, plug it in and you are off. This convenience comes with some tradeoffs that you should be aware of. Because you are buying pre built hardware, you can never be 100% sure that there are no malicious components installed that could be leaking your privacy, or worse your bitcoin. However, were one of the suppliers below were to perform such an attack, they would not be in business for long! Finally, you should consider the privacy and security aspects of getting Bitcoin related hardware delivered to your home address.
