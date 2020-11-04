@@ -15,7 +15,7 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 7.  [Hexa](#hexa)
 8.  [Muun](#muun)
 9.  [Mycelium](#mycelium)
-10. [Samourai Wallet](#samourai)
+10. [Samourai Wallet](#samourai-wallet)
 
 ***
 
@@ -45,6 +45,20 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 * [Setup Video](https://youtu.be/uO3Zi9D5b0Y)
 
 ***
+
+## Blue Wallet
+
+## Electrum
+
+## Fully Noded
+
+## Hexa
+
+## Muun
+
+## Mycelium
+
+## Samourai Wallet
 
 
 Finished looking for a mobile wallet? Check out the [desktop](/desktop) options available.
