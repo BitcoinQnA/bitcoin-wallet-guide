@@ -48,6 +48,11 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 
 ## Blue Wallet
 
+
+<div class="pull right"><center><img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/ui_showcase_2048x1536-728x546.jpg" class=responsive width="400" height="300" maxheight="300"/></div/>
+  
+  Testing left aligned text next to a right aligned image. Putting in some random words to see how it works.
+
 ## Electrum
 
 ## Fully Noded
