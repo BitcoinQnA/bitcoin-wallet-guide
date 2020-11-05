@@ -12,10 +12,10 @@ There goes a famous saying amongst Bitcoiners, ***'not your keys, not your coins
 
 ###  Feature Criteria 
 
-To be featured in this wallet guide, a wallet must meet these base criteria.
+To be featured in this guide, a wallet must meet these base criteria.
 
   1.  Be non custodial
-  2.  Be open source (apart from hardware wallets)
+  2.  Be open source (hardware wallets exempt)
   3.  Be actively maintained
   
 ***
@@ -46,7 +46,6 @@ Is your project missing? Please create an [issue](https://github.com/BitcoinQnA/
    - [Blue Wallet](https://bluewallet.io/)
    - [Electrum](https://play.google.com/store/apps/details?id=org.electrum.electrum&hl=en)
    - [Fully Noded](https://fullynoded.app/)
-   - [Hodl Wallet](https://hodlwallet.com/)
    - [Hexa](https://hexawallet.io/)
    - [Muun](https://muun.com/)
    - [Mycelium](https://wallet.mycelium.com/)
