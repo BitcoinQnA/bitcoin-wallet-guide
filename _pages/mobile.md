@@ -149,6 +149,8 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 * [Telegram](https://t.me/HexaWallet)
 * [Video](https://www.youtube.com/channel/UCMqDNxbz16w8pxpmsa6s8GQ)
 
+***
+
 ## Muun
 
 [Muun Wallet](https://muun.com/) is a simple Bitcoin wallet that also allows for payment of Lightning invoices via [submarine swaps](https://blog.muun.com/a-closer-look-at-submarine-swaps-in-the-lightning-network/). Muun uses a 2-of-2 multi-sig setup for signing transactions.
