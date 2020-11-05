@@ -76,7 +76,7 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 
 [Elecrum Mobile](https://electrum.org/#home) is better known for it's widely used desktop wallet, however an Android offering is also available. It supports both Bitcoin and Lightning and has the ability to create multi-sig as well as importing wallets. Connection to your own node is done via an Electrum server.
 
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/Electrum%20mobile.png" class=responsive width="300" height="300" maxheight="300">
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/Electrum%20mobile.png" class=responsive width="275" height="300" maxheight="300">
 
 ### Noteable Features
 * Connect to own node
@@ -101,7 +101,7 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 
 [Fully Noded](https://fullynoded.app/) is a feature rich iOS Bitcoin and Lightning wallet that connects to your own node by easily by scanning a QR code. Fully Noded also allows you to interact with your node by running RPC commands so that you can do things like verify the total supply of Bitcoin. Fully Noded also has a desktop implementation for Mac users.
 
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/FN.jpeg" class=responsive width="300" height="450" maxheight="450">
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/IMG_1051.PNG" class=responsive width="275" height="450" maxheight="450">
 
 ### Noteable Features
 * Connect to own node
