@@ -4,298 +4,205 @@ title: Desktop Wallets
 permalink: /desktop/
 ---
 
-Plug and Play node boxes offer a convenient way to run your own node. Most run on a variation of a single board computer such as a [Raspberry Pi](https://www.raspberrypi.org/). You simply choose your specification (*if multiples are offered*), wait for it to be delivered, plug it in and you are off. This convenience comes with some tradeoffs that you should be aware of. Because you are buying pre built hardware, you can never be 100% sure that there are no malicious components installed that could be leaking your privacy, or worse your bitcoin. However, were one of the suppliers below were to perform such an attack, they would not be in business for long! Finally, you should consider the privacy and security aspects of getting Bitcoin related hardware delivered to your home address.
+Mobile wallets provide the ultimate in convenience when interacting with Bitcoin. The main benefit mobile wallets bring is they're on a device we generally have with us 24/7 which makes transacting anytime, any place, easy. This 24/7 convenience factor comes with the trade-off that it may not be suitable for storing a large proportion of your wealth on. However, many users do store larger amounts in a mobile wallet on a dedicated device kept somewhere secure.    
 
 ### Table of Contents
 
-1.  [myNode One](#mynode-one)
-2.  [Nodl One](#nodl-one)
-3.  [Nodl Dojo](#nodl-dojo)
-4.  [RaspiBlitz](#raspiblitz)
-5.  [Start9 Embassy](#start9-embassy)
-6.  [Build-A-Node](#build-a-node)
+2.  [Bitcoin Core](#bitcoin-core)
+3.  [Blockstream Green](#blockstream-green)
+4.  [Electrum](#electrum)
+5.  [Fully Noded](#fully-noded)
+7.  [Specter Desktop](#specter-desktop)
+8.  [Sparrow Wallet](#sparrow-wallet)
+10. [Wasabi Wallet](#wasabi-wallet)
 
 ***
 
-### Cost Comparison
+## Bitcoin Core
 
-| Node                                | Cost                               |
-|-------------------------------------|------------------------------------|
-| [myNode One](#mynode-one)           | $339 (HDD)                         |
-|                                     | $419 (SSD)                         |
-| [Nodl One](#nodl-one)               | $499                               |
-|                                     | +$50 w/ kill switch                |
-|                                     | +$50 w/ Dojo support               |
-| [Nodl Dojo](#nodl-dojo)             | $849                               |
-| [RaspiBlitz](#raspiblitz)           | 269€ (2GB)                         |
-|                                     | 299€ (4GB)                         |
-|                                     | 369€ (8GB)                         |
-|                                     | 379€ (4GB) w/ terminal style case  |
-| [Start9 Embassy](#start9-embassy)   | $239                               |
-| [Build-A-Node](#build-a-node)       | From $410                          |
+[Bitcoin Core](https://bitcoin.org/en/bitcoin-core/features/) provides a simple wallet setup and user interface. Green supports multiple devices, enabling you to have the same wallet on your mobile and computer simultaneously. Sending a transaction is done through a 2-of-2 [multi-sig setup](https://help.blockstream.com/hc/en-us/articles/900001388366-What-does-Blockstream-Green-s-multisig-protect-from-) and connection to your own node is done via [SPV](https://en.bitcoinwiki.org/wiki/Simplified_Payment_Verification).
 
-## myNode One
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/imageedit_2_8794344245.png" class=responsive width="220" height="450" maxheight="500">
 
-The [myNode One](https://mynodebtc.com/products/one) is a Raspberry Pi4 4GB and comes packaged with their premium software which provides extra features and support. The myNode software comes with a beginner friendly web based user interface and is packed with features. At time of writing myNode currently offers 15 different Bitcoin and Lightning related applications.
+### Noteable Features
+* Connect to own node
+* Support for certain hardware wallets
+* Create multiple accounts
+* Runs over Tor
 
-<img src="https://raw.githubusercontent.com/BitcoinQnA/node-guide/master/images/d3-removebg-preview.png" class=responsive width="300" height="250" maxheight="250">
+### Noteable Limitations
+* No coin control
+* No native segwit
 
-
-### Features
-
-* RTL, Thunderhub + LN Bits
-* Electrum Server (*Electrs*)
-* BTC Pay Server
-* BTC Explorer
-* Samourai Dojo + Whirlpool
-* Mempool Viewer
-* Caravan + Specter Wallet Interfaces
-* Remote access via Tor or VPN
-* One click upgrades
-
-
-### Ease of setup
-
-Once you receive the device, connect the hardware and power it on. Visit `http://mynode.local/` with your phone, laptop or computer. Enter the product key that was supplied with the device. Your initial block download will then commence.
-
-
-### Limitations
-
-Some users report reliability issues. Currently only shipping to the U.S and Canada.
-
-### Cost
-
-* $279 with no storage supplied
-* $339 with a 1TB hard drive
-* $419 with a 1TB sold state drive
-
-### Recommended Hardware
-
-Comes pre built with a Raspberry Pi4 4GB. User specifies type of storage.
+### Available on
+* iOS + Android
 
 ### Other resources
-
-* [Codebase](https://github.com/mynodebtc/mynode)
-* [Telegram](https://t.me/mynode_btc)
-* [Guide Page](https://mynodebtc.com/guides)
-* [Setup Video](https://www.youtube.com/playlist?list=PLCRbH-IWlcW0KP8DxyWWrqahGafZyV2HR)
+* [Codebase](https://github.com/Blockstream)
+* [Documentation](https://help.blockstream.com/hc/en-us/categories/900000056183-Blockstream-Green)
+* [Telegram](https://t.me/blockstream_green)
+* [Video](https://youtu.be/uO3Zi9D5b0Y)
 
 ***
 
-## Nodl One
+## Blockstream Green
 
-The [Nodl One](https://www.nodl.it/nodl-one.html) is a Rock Pi4 with 4GB ram and comes with a web based user interface and higher spec hardware than most plug and play nodes.
+[Blue Wallet](https://bluewallet.io/) is feature packed but still manages to provide quick and easy access to both Bitcoin and Lightning. Blue wallet and serves as a great option to use Bitcoin daily and simultaneously act as 'watch only' wallet for your cold storage devices. Connection to your own node is done via an Electrum server. Full list of features [here](https://bluewallet.io/features/).
 
-<img src="https://raw.githubusercontent.com/BitcoinQnA/node-guide/master/images/nodl-one-early-bird-removebg-preview.png" class=responsive width="300" height="250" maxheight="250">
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/security-app.png" class=responsive width="320" height="500" maxheight="300">
 
+### Noteable Features
+* Connect to own node
+* PSBT and multi-sig
+* Create multiple accounts
+* Buy bitcoin within the app via Hodl Hodl
 
-### Features
+### Noteable Limitations
+* No coin control
+* No Tor
 
-* RTL
-* Electrum Server (*Electrs*)
-* BTC Pay Server
-* BTC Explorer
-* Samourai Dojo + Whirlpool
-* Remote access via Tor or VPN
-* One click upgrades
-* Full SSD encryption
-
-
-### Ease of setup
-
-Once you receive the device, connect the hardware and power it on. Visit `http://nodl.local:8338/` with your phone, laptop or computer. Click on the Nodl logo, set your password and you will then see the Nodl homepage.
-
-
-### Limitations
-
-Documentation is sparse.
-
-### Cost
-
-* $499 standard
-* $50 extra for kill switch
-* $50 extra for Samourai/Dojo premium support 
-
-### Recommended Hardware
-
-Comes pre built with a Rock Pi4 4GB, 16GB eMMC and 1TB SSD.
+### Available on
+* iOS + Android
 
 ### Other resources
-
-* [Codebase](https://gitlab.lightning-solutions.eu/search?utf8=%E2%9C%93&search=nodl&group_id=&project_id=&repository_ref=)
-* [Telegram](https://t.me/nodl_it)
-* [Guide Page](https://docs.lightning-solutions.eu/nodl-box/quick-start/getting-started)
-* [Setup Video](https://www.keepitsimplebitcoin.com/setup-nodl/)
+* [Codebase](https://github.com/bluewallet/bluewallet)
+* [Documentation](http://help.bluewallet.io/en/)
+* [Telegram](https://t.me/bluewallet)
+* [Video](https://youtu.be/imMX7i4qpmg)
 
 ***
 
-## Nodl Dojo
+## Electrum
 
+[Elecrum Mobile](https://electrum.org/#home) is better known for it's widely used desktop wallet, however an Android offering is also available. It supports both Bitcoin and Lightning and has the ability to create multi-sig as well as importing wallets. Connection to your own node is done via an Electrum server.
 
-The [Nodl Dojo](https://www.nodl.it/nodl-dojo.html) is similar to the Nodl One at its core. The main differences are a custom red case, fully encrypted SSDs, RAID 1 mirroring for extra redundancy (if one SSD fails, your node continues to run) and a premium support package. 
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/Electrum%20mobile.png" class=responsive width="275" height="300" maxheight="300">
 
-<img src="https://raw.githubusercontent.com/BitcoinQnA/node-guide/master/images/angled-box.png" class=responsive width="200" height="175" maxheight="300">
+### Noteable Features
+* Connect to own node
+* Multi-sig + watch only
+* Multiple wallets
+* Coin control
 
+### Noteable Limitations
+* User experience
 
-### Features
-
-* RTL
-* Electrum Server (*Electrs*)
-* BTC Pay Server
-* BTC Explorer
-* Samourai Dojo + Whirlpool
-* Remote access via Tor or VPN
-* One click upgrades
-* Full SSD encryption
-* RAID Mirroring
-
-
-### Ease of setup
-
-Once you receive the device, connect the hardware and power it on. Visit `http://nodl.local:8338/` with your phone, laptop or computer. Click on the Nodl logo, set your password and you will then see the Nodl homepage.
-
-
-### Limitations
-
-Stock is limited and sells out fast.
-
-### Cost
-
-* $849
-
-### Recommended Hardware
-
-Comes pre built with a Rock Pi4 4GB, 16GB eMMC and 2x 1TB SSDs.
+### Available on
+* Android
 
 ### Other resources
-
-* [Codebase](https://gitlab.lightning-solutions.eu/search?utf8=%E2%9C%93&search=nodl&group_id=&project_id=&repository_ref=)
-* [Telegram](https://t.me/nodl_it)
-* [Guide Page](https://docs.lightning-solutions.eu/nodl-box/quick-start/getting-started)
-* [Setup Video](https://www.keepitsimplebitcoin.com/setup-nodl/)
+* [Codebase](https://github.com/spesmilo/electrum)
+* [Documentation](https://electrum.readthedocs.io/)
+* [Reddit](https://www.reddit.com/r/Electrum/)
 
 ***
 
+## Fully Noded
 
-## RaspiBlitz
+[Fully Noded](https://fullynoded.app/) is a feature rich iOS Bitcoin and Lightning wallet that connects to your own node by easily by scanning a QR code. Fully Noded also allows you to interact with your node by running RPC commands so that you can do things like verify the total supply of Bitcoin. Fully Noded also has a desktop implementation for Mac users.
 
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/IMG_1051.PNG" class=responsive width="275" height="450" maxheight="450">
 
-The [RaspiBlitz](https://shop.fulmo.org/raspiblitz/) is one of the longest standing node projects and comes feature packed with a significant focus on the Lightning network. The RaspiBlitz boasts rock sold uptime and well tested update procedures. 
+### Noteable Features
+* Connect to own node
+* PSBT and multi-sig
+* Coin control
+* Runs over Tor
 
-<img src="https://raw.githubusercontent.com/BitcoinQnA/node-guide/master/images/blitz1.png" class=responsive width="300" height="250" maxheight="250">
+### Noteable Limitations
+* C Lightning implementation not common amongst average node runners
 
-
-### Features
-
-* RTL
-* Thunderhub
-* Electrum Server (*Electrs*)
-* BTC Pay Server
-* BTC Explorer
-* LN Bits
-* Specter Desktop
-* Mempool Viewer
-* Joinmarket
-* Loop
-* IP 2 Tor
-* Remote access via Tor
-* Touchscreen display
-
-
-### Ease of setup
-
-Once you receive the device, connect the hardware and power it on. You should then see the local IP and password address of your RaspiBlitz on the LCD panel. Using an [SSH tool](https://en.wikipedia.org/wiki/Comparison_of_SSH_clients), connect through to your RaspiBlitz and finish the setup process.
-
-
-### Limitations
-
-Lack of web user interface may put some users off.
-
-### Cost
-
-* 269 EUR (*2GB*)
-* 299 EUR (*4GB*)
-* 369 EUR (*8GB*)
-* 379 EUR (*4GB with metal case*)
-
-### Recommended Hardware
-
-Comes pre built with a Raspberry PI with a selection of 2,4 or 8GB ram, 1TB SSD and a touchscreen and optional 'terminal style' metal case.
+### Available on
+* iOS
 
 ### Other resources
-
-* [Codebase](https://github.com/rootzoll/raspiblitz)
-* [Telegram](https://t.me/raspiblitz)
-* [Guide Page](https://github.com/rootzoll/raspiblitz)
-* [Deep Dive Video](https://www.youtube.com/watch?v=_cjGxjze8PM)
+* [Codebase](https://github.com/Fonta1n3/FullyNoded)
+* [Documentation](https://github.com/Fonta1n3/FullyNoded/blob/master/Docs)
+* [Telegram](https://t.me/FullyNoded)
+* [Setup Video](https://www.youtube.com/channel/UCKvdcFJh7H96NJhwZrsNeqw)
 
 ***
 
+## Specter Desktop
 
-## Start9 Embassy
+[Hexa](https://hexawallet.io/) is a relatively new multi account wallet with a polished UX that offers a unique backup procedure based on the [Shamir Secret Sharing](https://hexawallet.io/wp-content/uploads/2019/07/Hexa-Wallet-Backup-Scheme-SSS-WP_-1.0.pdf) protocol. Hexa makes batch transactions simple and also allows the user to set up a donation page in a few clicks. 
 
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/component-1.png" class=responsive width="420" height="380" maxheight="300">
 
-The [Embassy One](https://store.start9labs.com/collections/embassy/products/embassy-one) is a new node implementation with a focus on making setup and interaction a frictionless as possible. The Embassy is limited in features but is working towards becoming your own personal server that does more than just be a Bitcoin node. 
+### Noteable Features
+* Donation web pages
+* Simple batching
+* Redeem Fast Bitcoins vouchers
+* Unique backup process
 
-<img src="https://raw.githubusercontent.com/BitcoinQnA/node-guide/master/images/Embassy-Evolution_360x.png" class=responsive width="300" height="250" maxheight="250">
+### Noteable Limitations
+* No own node connection
+* No Tor
+* No coin control
 
-
-### Features
-
-* Cups encrypted messaging
-* Bitwarden password manager
-* File browser
-* Remote Tor access
-* Companion phone app
-* Web based UI
-
-
-### Ease of setup
-
-Once you receive the device, connect the hardware and power it on. Inside the setup app, enter your product key and then create your password. You can now log in and start installing and using the available services.
-
-### Limitations
-
-No hard drive, all storage is done via an SD card which can be unstable. No Lightning network and runs in 'pruned' mode so importing existing wallets is not possible.
-
-### Cost
-
-* $239
-
-### Recommended Hardware
-
-Comes pre built with a Raspberry Pi 4GB.
+### Available on
+* iOS + Android
 
 ### Other resources
-
-* [Codebase](https://github.com/Start9Labs)
-* [Telegram](https://t.me/start9_labs)
-* [Guide Page](https://docs.start9labs.com/)
-* [Setup Video](https://www.youtube.com/watch?v=YMStLevc034)
-
-***
-
-## Build-A-Node
-
-The [CryptoCloaks](https://www.cryptocloaks.com) team offer a [build a node](https://www.cryptocloaks.com/product/build-a-node/) service that lets you customise your own plug + play node. The node will arrive ready to go with a choice of the myNode community, myNode premium or RaspiBlitz software. You can also create a custom case for your node to add a more personal touch.
-
-<img src="https://github.com/BitcoinQnA/node-guide/blob/master/images/PXL_20201007_111600379-removebg-preview.png?raw=true" class=responsive width="300" height="250" maxheight="250">
-
-### Cost
-
-* From $410
-
-### Recommended Hardware
-
-Comes packaged with this base hardware but upgrades are available.
-
-* Raspberry Pi Model 4B 4GB
-* Pimoroni Fan Shim
-* 32GB SD Card
-* 1TB SSD
-* 3.5″ LCD (*RaspiBlitz only*)
-* Custom case
+* [Codebase](https://github.com/bithyve/hexa)
+* [Documentation](https://hexawallet.io/faq/)
+* [Telegram](https://t.me/HexaWallet)
+* [Video](https://www.youtube.com/channel/UCMqDNxbz16w8pxpmsa6s8GQ)
 
 ***
 
-Want to build your own node? Check out the [DIY](/do-it-yourself/) page.
+## Sparrow Wallet
+
+[Muun Wallet](https://muun.com/) is a simple Bitcoin wallet that also allows for payment of Lightning invoices via [submarine swaps](https://blog.muun.com/a-closer-look-at-submarine-swaps-in-the-lightning-network/). Muun uses a 2-of-2 multi-sig setup for signing transactions.
+
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/phone-mockup.png" class=responsive width="350" height="420" maxheight="300">
+
+### Noteable Features
+* Pay Lightning invoices via submarine swaps
+* Connects to Trezor hardware wallet
+
+### Noteable Limitations
+* No coin control
+* No Tor
+* No own node connection
+
+### Available on
+* iOS + Android
+
+### Other resources
+* [Codebase](https://github.com/muun/)
+* [Contact](https://muun.com/contact/)
+* [Video](https://youtu.be/imMX7i4qpmg)
+
+***
+
+## Wasabi Wallet
+
+[Samourai Wallet](https://samouraiwallet.com/) is a privacy focused Android wallet that offers inbuilt Coinjoin and complex spend algorithms to preserve privacy. Samourai provides simple node connection via a QR scan and also supports [Opendime](https://opendime.com/) and [BIP47](https://support.samourai.io/article/68-what-are-paynyms) 'Paynyms'. Full list of features [here](https://code.samourai.io/wallet/samourai-wallet-android/-/blob/develop/Samourai-Wallet-features.md).
+
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/hero_shot_nodev.png" class=responsive width="300" height="500" maxheight="300">
+
+### Noteable Features
+* Connect to own node
+* Runs over Tor
+* Coinjoin + Payjoin
+* Coin control
+
+### Noteable Limitations
+* Still in alpha phase, expect occasional UX bugs
+
+### Available on
+* Android
+
+### Other resources
+* [Codebase](https://code.samourai.io/wallet/samourai-wallet-android)
+* [Documentation](https://support.samourai.io/)
+* [Telegram](https://t.me/SamouraiWallet)
+* [Video](https://www.youtube.com/watch?v=icyeO70ICi4)
+
+
+***
+
+[Back to the top](#table-of-contents)
+
+Finished looking for a mobile wallet? Check out the [desktop](/desktop) options available.
