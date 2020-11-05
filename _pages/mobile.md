@@ -111,7 +111,7 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 * Runs over Tor
 
 ### Noteable Limitations
-* C Lightning implementation not commonly used on most DIY nodes
+* C Lightning implementation not common amongst average node runners
 
 ### Available on
 * iOS
@@ -125,6 +125,30 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 ***
 
 ## Hexa
+
+[Hexa](https://hexawallet.io/) is a relatively new multi account wallet with a polished UX that offers a unique backup procedure based on the [Shamir Secret Sharing](https://hexawallet.io/wp-content/uploads/2019/07/Hexa-Wallet-Backup-Scheme-SSS-WP_-1.0.pdf) protocol. Hexa makes batch transactions simple and also allows the user to set up a donation page in a few clicks. 
+
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/component-1.png" class=responsive width="400" height="400" maxheight="300">
+
+### Noteable Features
+* Donation web pages
+* Simple batching
+* Redeem Fast Bitcoins vouchers
+* Unique backup process
+
+### Noteable Limitations
+* No own node connection
+* No Tor
+* No coin control
+
+### Available on
+* iOS + Android
+
+### Other resources
+* [Codebase](https://github.com/bithyve/hexa)
+* [Documentation](https://hexawallet.io/faq/)
+* [Telegram](https://t.me/HexaWallet)
+* [Video](https://www.youtube.com/channel/UCMqDNxbz16w8pxpmsa6s8GQ)
 
 ## Muun
 
