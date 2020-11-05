@@ -22,7 +22,7 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 
 [Blockstream Green](https://www.blockstream.com/green/) provides a simple wallet setup and user interface. Green supports multiple devices, enabling you to have the same wallet on your mobile and computer simultaneously. Sending a transaction is done through a 2-of-2 [multi-sig setup](https://help.blockstream.com/hc/en-us/articles/900001388366-What-does-Blockstream-Green-s-multisig-protect-from-) and connection to your own node is done via [SPV](https://en.bitcoinwiki.org/wiki/Simplified_Payment_Verification).
 
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/ui_showcase_2048x1536-728x546.jpg" class=responsive width="400" height="300" maxheight="300">
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/BG1.png" class=responsive width="220" height="450" maxheight="500">
 
 ### Noteable Features
 * Connect to own node
