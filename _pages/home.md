@@ -48,7 +48,6 @@ Is your project missing? Please create an [issue](https://github.com/BitcoinQnA/
    - [Fully Noded](https://fullynoded.app/)
    - [Hexa](https://hexawallet.io/)
    - [Muun](https://muun.com/)
-   - [Mycelium](https://wallet.mycelium.com/)
    - [Samourai Wallet](https://samouraiwallet.com)
    
    
