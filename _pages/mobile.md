@@ -49,7 +49,7 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 
 [Blue Wallet](https://bluewallet.io/) is feature packed but still manages to provide quick and easy access to both Bitcoin and Lightning. Blue wallet and serves as a great option to use Bitcoin daily and simultaneously act as 'watch only' wallet for your cold storage devices. Connection to your own node is done via an Electrum server. Full list of features [here](https://bluewallet.io/features/).
 
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/security-app.png" class=responsive width="350" height="500" maxheight="300">
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/security-app.png" class=responsive width="320" height="500" maxheight="300">
 
 ### Noteable Features
 * Connect to own node
