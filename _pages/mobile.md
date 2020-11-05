@@ -14,7 +14,6 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 5.  [Fully Noded](#fully-noded)
 7.  [Hexa](#hexa)
 8.  [Muun](#muun)
-9.  [Mycelium](#mycelium)
 10. [Samourai Wallet](#samourai-wallet)
 
 ***
@@ -175,9 +174,31 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 
 ***
 
-## Mycelium
-
 ## Samourai Wallet
 
+[Samourai Wallet](https://samouraiwallet.com/) is a privacy focused Android wallet that offers inbuilt Coinjoin and complex spend algorithms to preserve privacy. Samourai provides simple node connection via a QR scan and also supports [Opendime](https://opendime.com/) and [BIP47](https://support.samourai.io/article/68-what-are-paynyms) 'Paynyms'. Full list of features [here](https://code.samourai.io/wallet/samourai-wallet-android/-/blob/develop/Samourai-Wallet-features.md).
+
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/hero_shot_nodev.png" class=responsive width="300" height="500" maxheight="300">
+
+### Noteable Features
+* Connect to own node
+* Runs over Tor
+* Coinjoin + Payjoin
+* Coin control
+
+### Noteable Limitations
+* Still in alpha phase, expect occasional UX bugs
+
+### Available on
+* Android
+
+### Other resources
+* [Codebase](https://code.samourai.io/wallet/samourai-wallet-android)
+* [Documentation](https://support.samourai.io/)
+* [Telegram](https://t.me/SamouraiWallet)
+* [Video](https://www.youtube.com/watch?v=icyeO70ICi4)
+
+
+***
 
 Finished looking for a mobile wallet? Check out the [desktop](/desktop) options available.
