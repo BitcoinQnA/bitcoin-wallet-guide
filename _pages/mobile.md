@@ -152,6 +152,29 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 
 ## Muun
 
+[Muun Wallet](https://muun.com/) is a simple Bitcoin wallet that also allows for payment of Lightning invoices via [submarine swaps](https://blog.muun.com/a-closer-look-at-submarine-swaps-in-the-lightning-network/). Muun uses a 2-of-2 multi-sig setup for signing transactions.
+
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/phone-mockup.png" class=responsive width="375" height="400" maxheight="300">
+
+### Noteable Features
+* Pay Lightning invoices via submarine swaps
+* Connects to Trezor hardware wallet
+
+### Noteable Limitations
+* No coin control
+* No Tor
+* No own node connection
+
+### Available on
+* iOS + Android
+
+### Other resources
+* [Codebase](https://github.com/muun/)
+* [Contact](https://muun.com/contact/)
+* [Video](https://youtu.be/imMX7i4qpmg)
+
+***
+
 ## Mycelium
 
 ## Samourai Wallet
