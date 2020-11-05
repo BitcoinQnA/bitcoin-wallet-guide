@@ -127,7 +127,7 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 
 [Hexa](https://hexawallet.io/) is a relatively new multi account wallet with a polished UX that offers a unique backup procedure based on the [Shamir Secret Sharing](https://hexawallet.io/wp-content/uploads/2019/07/Hexa-Wallet-Backup-Scheme-SSS-WP_-1.0.pdf) protocol. Hexa makes batch transactions simple and also allows the user to set up a donation page in a few clicks. 
 
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/component-1.png" class=responsive width="400" height="400" maxheight="300">
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/component-1.png" class=responsive width="420" height="380" maxheight="300">
 
 ### Noteable Features
 * Donation web pages
