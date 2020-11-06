@@ -245,4 +245,6 @@ Desktop wallets offer more usability and often, a greater feature set when compa
 
 [Back to the top](#table-of-contents)
 
+ <a href="#top">Back to top</a>
+
 Finished looking for a desktop wallet? Check out the available [hardware wallet](/hardware) options.
