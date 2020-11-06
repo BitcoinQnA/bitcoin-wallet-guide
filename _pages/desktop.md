@@ -160,12 +160,12 @@ Desktop wallets offer more usability and often, a greater feature set when compa
 
 ## Specter Desktop
 
-[Specter Desktop](https://specter.solutions/) is fairly new to the scene but has already made a big impact. It strikes a good balance of feature set, node connection and intuitive UX which has made it a very popular option in a very short space of time. Specter is compatible with every popular hardware wallet option and also offers automatic pairing with Bitcoin Core, resulting in the process of connecting your cold stroage device to your own node very simple.  
+[Specter Desktop](https://specter.solutions/) is fairly new to the scene but has already made a huge impact. It strikes a good balance of feature set, node connection and intuitive UX which has made it a very popular option in a very short space of time. Specter is compatible with every popular hardware wallet option and also offers automatic pairing with Bitcoin Core, resulting in the process of connecting your cold stroage device to your own node very simple.  
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/Spceter_Desktop_Multisig_Devices-1024x588.jpg" class=responsive width="630" height="400" maxheight="450">
 
 ### Noteable Features
-* Connect to own node (default)
+* Connect to own node (mandatory)
 * PSBT and multi-sig
 * Coin control
 * Runs over Tor
@@ -187,6 +187,32 @@ Desktop wallets offer more usability and often, a greater feature set when compa
 ***
 
 ## Sparrow Wallet
+
+[Sparrow Wallet](https://www.sparrowwallet.com/) is another feature dense desktop wallet. Sparrow is focused on privacy and also ensures the user can focus on the finer details. Sparrow offers extremely detailed transaction previews which can also double up as a personal blockchain explorer. Connection to your own node is mandatory and is done via an Electrum Server.  
+
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/control-your-sends.png" class=responsive width="630" height="400" maxheight="450">
+
+### Noteable Features
+* Connect to own node (mandatory)
+* PSBT and multi-sig
+* Coin control
+* Runs over Tor
+
+### Noteable Limitations
+* Node/Electrum Server setup may be a big hurdle for newcomers
+
+### Available on
+* Mac OS
+* Windows
+* Linux
+
+### Other resources
+* [Codebase](https://github.com/sparrowwallet/sparrow)
+* [Documentation](https://www.sparrowwallet.com/docs/)
+* [Telegram](https://t.me/sparrowwallet)
+* [Contact](https://twitter.com/SparrowWallet)
+
+***
 
 ## Wasabi Wallet
 
