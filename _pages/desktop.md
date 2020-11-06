@@ -132,7 +132,59 @@ Desktop wallets offer more usability and often, a greater feature set when compa
 
 ## Lily Wallet
 
+[Lily Wallet](https://lily.kevinmulcrone.com/) offers one of the simplist desktop user interfaces and makes single of multi-sig wallet creation simple. It may not be for the more privacy focused individual with the lack of own node connection and coin control however this is a relatively young wallet and these features are on the product roadmap.
+
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/lily.png" class=responsive width="600" height="400" maxheight="450">
+
+### Noteable Features
+* PSBT and multi-sig
+* Export wallets to other software
+
+
+### Noteable Limitations
+* No own node connection
+* No coin control
+
+### Available on
+* Mac OS
+* Windows
+* Linux
+
+### Other resources
+* [Codebase](https://github.com/kaybesee/lily-wallet)
+* [Documentation](http://lily.kevinmulcrone.com/docs)
+* [Support](mailto:kaybesee@gmail.com)
+* [Setup Video](https://youtu.be/9xUgyTYqvcQ)
+
+***
+
 ## Specter Desktop
+
+[Specter Desktop](https://specter.solutions/) is fairly new to the scene but has already made a big impact. It strikes a good balance of feature set, node connection and intuitive UX which has made it a very popular option in a very short space of time. Specter is compatible with every popular hardware wallet option and also offers automatic pairing with Bitcoin Core, resulting in the process of connecting your cold stroage device to your own node very simple.  
+
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/Spceter_Desktop_Multisig_Devices-1024x588.jpg" class=responsive width="630" height="400" maxheight="450">
+
+### Noteable Features
+* Connect to own node (default)
+* PSBT and multi-sig
+* Coin control
+* Runs over Tor
+
+### Noteable Limitations
+* Tor connection not easy for beginners
+
+### Available on
+* Mac OS
+* Windows
+* Linux
+
+### Other resources
+* [Codebase](https://github.com/cryptoadvance/specter-desktop)
+* [Documentation](https://github.com/cryptoadvance/specter-desktop/blob/master/docs/faq.md)
+* [Telegram](https://t.me/spectersupport)
+* [Setup Video](https://youtu.be/4koKF2MDXtk)
+
+***
 
 ## Sparrow Wallet
 
