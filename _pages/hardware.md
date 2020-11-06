@@ -13,9 +13,6 @@ Desktop wallets offer more usability and often, a greater feature set when compa
 3.  [Coldcard](#coldcard)
 4.  [Specter DIY](#specter-diy)
 5.  [Trezor](#lily-wallet)
-6.  [Specter Desktop](#specter-desktop)
-7.  [Sparrow Wallet](#sparrow-wallet)
-8.  [Wasabi Wallet](#wasabi-wallet)
 
 ***
 
