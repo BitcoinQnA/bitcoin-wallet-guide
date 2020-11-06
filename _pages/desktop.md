@@ -4,205 +4,66 @@ title: Desktop Wallets
 permalink: /desktop/
 ---
 
-Mobile wallets provide the ultimate in convenience when interacting with Bitcoin. The main benefit mobile wallets bring is they're on a device we generally have with us 24/7 which makes transacting anytime, any place, easy. This 24/7 convenience factor comes with the trade-off that it may not be suitable for storing a large proportion of your wealth on. However, many users do store larger amounts in a mobile wallet on a dedicated device kept somewhere secure.    
+Desktop wallets offer more usability and often, a greater feature set when compared with their mobile counterparts. Desktop wallets offer hardware wallet support, and more recently have shifted more towards easy multi-sig setup and usage. Desktop wallets make interacting with bitcoin held in cold storage on a hardware wallet, much easier but they are not well suited to daily use. Computers are inherently more at risk of being exposed to malicious software compared to phones, so always double check the download source before installing any desktop software and if you have the knowledge, verify the software signature.
 
 ### Table of Contents
 
-2.  [Bitcoin Core](#bitcoin-core)
-3.  [Blockstream Green](#blockstream-green)
-4.  [Electrum](#electrum)
-5.  [Fully Noded](#fully-noded)
-7.  [Specter Desktop](#specter-desktop)
-8.  [Sparrow Wallet](#sparrow-wallet)
-10. [Wasabi Wallet](#wasabi-wallet)
+1.  [Bitcoin Core](#bitcoin-core)
+2.  [Blockstream Green](#blockstream-green)
+3.  [Electrum](#electrum)
+4.  [Fully Noded](#fully-noded)
+5.  [Lily Wallet](#lily-wallet)
+6.  [Specter Desktop](#specter-desktop)
+7.  [Sparrow Wallet](#sparrow-wallet)
+8.  [Wasabi Wallet](#wasabi-wallet)
 
 ***
 
 ## Bitcoin Core
 
-[Bitcoin Core](https://bitcoin.org/en/bitcoin-core/features/) provides a simple wallet setup and user interface. Green supports multiple devices, enabling you to have the same wallet on your mobile and computer simultaneously. Sending a transaction is done through a 2-of-2 [multi-sig setup](https://help.blockstream.com/hc/en-us/articles/900001388366-What-does-Blockstream-Green-s-multisig-protect-from-) and connection to your own node is done via [SPV](https://en.bitcoinwiki.org/wiki/Simplified_Payment_Verification).
+[Bitcoin Core](https://bitcoin.org/en/bitcoin-core/features/) is both a desktop wallet and a node. It is arguably the easiest way to get up and running in a fast yet private manner. Because of it's simplicity and longevity, Core is the most widely used desktop wallet out there. Core provides an easy way to onboard and enables users to interact with Bitcoin in a matter of clicks.   
 
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/imageedit_2_8794344245.png" class=responsive width="220" height="450" maxheight="500">
+<img src="https://raw.githubusercontent.com/BitcoinQnA/node-guide/master/images/photo_2020-10-25_16-27-15.jpg" class=responsive width="500" height="400" maxheight="500">
 
 ### Noteable Features
-* Connect to own node
-* Support for certain hardware wallets
-* Create multiple accounts
-* Runs over Tor
+* Built in node
+* Coin control + labelling
+* Can be run over Tor
 
 ### Noteable Limitations
-* No coin control
-* No native segwit
+* No hardware wallet support within GUI
 
 ### Available on
-* iOS + Android
+* Mac OS
+* Windows
+* Linux
 
 ### Other resources
-* [Codebase](https://github.com/Blockstream)
-* [Documentation](https://help.blockstream.com/hc/en-us/categories/900000056183-Blockstream-Green)
-* [Telegram](https://t.me/blockstream_green)
-* [Video](https://youtu.be/uO3Zi9D5b0Y)
+* [Codebase](https://github.com/bitcoin-core)
+* [Documentation](https://bitcoin.org/en/full-node#what-is-a-full-node)
+* [Support](https://bitcoin.org/en/bitcoin-core/contribute/support)
+* [Video](https://youtu.be/xc_TxlByxeY)
 
 ***
 
 ## Blockstream Green
 
-[Blue Wallet](https://bluewallet.io/) is feature packed but still manages to provide quick and easy access to both Bitcoin and Lightning. Blue wallet and serves as a great option to use Bitcoin daily and simultaneously act as 'watch only' wallet for your cold storage devices. Connection to your own node is done via an Electrum server. Full list of features [here](https://bluewallet.io/features/).
-
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/security-app.png" class=responsive width="320" height="500" maxheight="300">
-
-### Noteable Features
-* Connect to own node
-* PSBT and multi-sig
-* Create multiple accounts
-* Buy bitcoin within the app via Hodl Hodl
-
-### Noteable Limitations
-* No coin control
-* No Tor
-
-### Available on
-* iOS + Android
-
-### Other resources
-* [Codebase](https://github.com/bluewallet/bluewallet)
-* [Documentation](http://help.bluewallet.io/en/)
-* [Telegram](https://t.me/bluewallet)
-* [Video](https://youtu.be/imMX7i4qpmg)
-
-***
-
 ## Electrum
-
-[Elecrum Mobile](https://electrum.org/#home) is better known for it's widely used desktop wallet, however an Android offering is also available. It supports both Bitcoin and Lightning and has the ability to create multi-sig as well as importing wallets. Connection to your own node is done via an Electrum server.
-
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/Electrum%20mobile.png" class=responsive width="275" height="300" maxheight="300">
-
-### Noteable Features
-* Connect to own node
-* Multi-sig + watch only
-* Multiple wallets
-* Coin control
-
-### Noteable Limitations
-* User experience
-
-### Available on
-* Android
-
-### Other resources
-* [Codebase](https://github.com/spesmilo/electrum)
-* [Documentation](https://electrum.readthedocs.io/)
-* [Reddit](https://www.reddit.com/r/Electrum/)
-
-***
 
 ## Fully Noded
 
-[Fully Noded](https://fullynoded.app/) is a feature rich iOS Bitcoin and Lightning wallet that connects to your own node by easily by scanning a QR code. Fully Noded also allows you to interact with your node by running RPC commands so that you can do things like verify the total supply of Bitcoin. Fully Noded also has a desktop implementation for Mac users.
-
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/IMG_1051.PNG" class=responsive width="275" height="450" maxheight="450">
-
-### Noteable Features
-* Connect to own node
-* PSBT and multi-sig
-* Coin control
-* Runs over Tor
-
-### Noteable Limitations
-* C Lightning implementation not common amongst average node runners
-
-### Available on
-* iOS
-
-### Other resources
-* [Codebase](https://github.com/Fonta1n3/FullyNoded)
-* [Documentation](https://github.com/Fonta1n3/FullyNoded/blob/master/Docs)
-* [Telegram](https://t.me/FullyNoded)
-* [Setup Video](https://www.youtube.com/channel/UCKvdcFJh7H96NJhwZrsNeqw)
-
-***
+## Lily Wallet
 
 ## Specter Desktop
 
-[Hexa](https://hexawallet.io/) is a relatively new multi account wallet with a polished UX that offers a unique backup procedure based on the [Shamir Secret Sharing](https://hexawallet.io/wp-content/uploads/2019/07/Hexa-Wallet-Backup-Scheme-SSS-WP_-1.0.pdf) protocol. Hexa makes batch transactions simple and also allows the user to set up a donation page in a few clicks. 
-
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/component-1.png" class=responsive width="420" height="380" maxheight="300">
-
-### Noteable Features
-* Donation web pages
-* Simple batching
-* Redeem Fast Bitcoins vouchers
-* Unique backup process
-
-### Noteable Limitations
-* No own node connection
-* No Tor
-* No coin control
-
-### Available on
-* iOS + Android
-
-### Other resources
-* [Codebase](https://github.com/bithyve/hexa)
-* [Documentation](https://hexawallet.io/faq/)
-* [Telegram](https://t.me/HexaWallet)
-* [Video](https://www.youtube.com/channel/UCMqDNxbz16w8pxpmsa6s8GQ)
-
-***
-
 ## Sparrow Wallet
-
-[Muun Wallet](https://muun.com/) is a simple Bitcoin wallet that also allows for payment of Lightning invoices via [submarine swaps](https://blog.muun.com/a-closer-look-at-submarine-swaps-in-the-lightning-network/). Muun uses a 2-of-2 multi-sig setup for signing transactions.
-
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/phone-mockup.png" class=responsive width="350" height="420" maxheight="300">
-
-### Noteable Features
-* Pay Lightning invoices via submarine swaps
-* Connects to Trezor hardware wallet
-
-### Noteable Limitations
-* No coin control
-* No Tor
-* No own node connection
-
-### Available on
-* iOS + Android
-
-### Other resources
-* [Codebase](https://github.com/muun/)
-* [Contact](https://muun.com/contact/)
-* [Video](https://youtu.be/imMX7i4qpmg)
-
-***
 
 ## Wasabi Wallet
 
-[Samourai Wallet](https://samouraiwallet.com/) is a privacy focused Android wallet that offers inbuilt Coinjoin and complex spend algorithms to preserve privacy. Samourai provides simple node connection via a QR scan and also supports [Opendime](https://opendime.com/) and [BIP47](https://support.samourai.io/article/68-what-are-paynyms) 'Paynyms'. Full list of features [here](https://code.samourai.io/wallet/samourai-wallet-android/-/blob/develop/Samourai-Wallet-features.md).
-
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/hero_shot_nodev.png" class=responsive width="300" height="500" maxheight="300">
-
-### Noteable Features
-* Connect to own node
-* Runs over Tor
-* Coinjoin + Payjoin
-* Coin control
-
-### Noteable Limitations
-* Still in alpha phase, expect occasional UX bugs
-
-### Available on
-* Android
-
-### Other resources
-* [Codebase](https://code.samourai.io/wallet/samourai-wallet-android)
-* [Documentation](https://support.samourai.io/)
-* [Telegram](https://t.me/SamouraiWallet)
-* [Video](https://www.youtube.com/watch?v=icyeO70ICi4)
 
 
 ***
 
 [Back to the top](#table-of-contents)
 
-Finished looking for a desktop wallet? Check out the [hardware wallet](/hardware) options.
+Finished looking for a desktop wallet? Check out the available [hardware wallet](/hardware) options.
