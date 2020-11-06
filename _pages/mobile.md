@@ -203,6 +203,6 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 
 ***
 
-[Back to the top](#table-of-contents)
+ <a href="#top">Back to top</a>
 
 Finished looking for a mobile wallet? Check out the [desktop](/desktop) options available.
