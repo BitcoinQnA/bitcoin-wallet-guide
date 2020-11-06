@@ -56,6 +56,7 @@ Is your project missing? Please create an [issue](https://github.com/BitcoinQnA/
     - [Blockstream Green](https://blockstream.com/green/)
     - [Electrum](https://electrum.org)
     - [Fully Noded](https://fullynoded.app/)
+    - [Lily Wallet](https://lily.kevinmulcrone.com/)
     - [Specter Desktop](https://github.com/cryptoadvance/specter-desktop)
     - [Sparrow Wallet](https://www.sparrowwallet.com/)
     - [Wasabi Wallet](https://wasabiwallet.io/)
