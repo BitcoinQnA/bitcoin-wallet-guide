@@ -48,7 +48,56 @@ Desktop wallets offer more usability and often, a greater feature set when compa
 
 ## Blockstream Green
 
+[Blockstream Green](https://www.blockstream.com/green/) is one of the more basic desktop wallets. Green is cross platform, enabling you to have the same wallet on your mobile and computer simultaneously. Sending a transaction is done through a 2-of-2 [multi-sig setup](https://help.blockstream.com/hc/en-us/articles/900001388366-What-does-Blockstream-Green-s-multisig-protect-from-) but own node connection is not available.
+
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/Green%20Desktop.png" class=responsive width="600" height="400" maxheight="500">
+
+### Noteable Features
+* Cross platform
+* Multiple accounts
+
+### Noteable Limitations
+* No node connection
+* No coin control or labelling
+* No hardware wallet support
+
+### Available on
+* Mac OS
+* Windows
+* Linux
+
+### Other resources
+* [Codebase](https://github.com/Blockstream/green_qt)
+* [Documentation](https://help.blockstream.com/hc/en-us/categories/900000056183-Blockstream-Green)
+* [Telegram](https://t.me/blockstream_green)
+* [Video](https://youtu.be/uO3Zi9D5b0Y)
+
+
 ## Electrum
+
+[Electrum](https://electrum.org/#home) is one of the more basic desktop wallets. Green is cross platform, enabling you to have the same wallet on your mobile and computer simultaneously. Sending a transaction is done through a 2-of-2 [multi-sig setup](https://help.blockstream.com/hc/en-us/articles/900001388366-What-does-Blockstream-Green-s-multisig-protect-from-) but own node connection is not available.
+
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/Electrum%20Desktop.png" class=responsive width="600" height="400" maxheight="500">
+
+### Noteable Features
+* Cross platform
+* Multiple accounts
+
+### Noteable Limitations
+* No node connection
+* No coin control or labelling
+* No hardware wallet support
+
+### Available on
+* Mac OS
+* Windows
+* Linux
+
+### Other resources
+* [Codebase](https://github.com/Blockstream/green_qt)
+* [Documentation](https://help.blockstream.com/hc/en-us/categories/900000056183-Blockstream-Green)
+* [Telegram](https://t.me/blockstream_green)
+* [Video](https://youtu.be/uO3Zi9D5b0Y)
 
 ## Fully Noded
 
