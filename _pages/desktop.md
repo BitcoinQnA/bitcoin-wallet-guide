@@ -216,7 +216,30 @@ Desktop wallets offer more usability and often, a greater feature set when compa
 
 ## Wasabi Wallet
 
+[Wasabi](https://wasabiwallet.io/) is privacy focused and comes packaged with Tor, coin control, labelling and coinjoin. Wasabi offers support for all major hardware wallets and can run an internal node or connect to an external one a user already has setup.     
 
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/Send.png" class=responsive width="630" height="400" maxheight="450">
+
+### Noteable Features
+* Connect to own node or run internal
+* PSBT and multi-sig
+* Coin control and labelling
+* Runs over Tor
+
+### Noteable Limitations
+* Postmix spending not well managed
+* Coinjoin implementation has address reuse
+
+### Available on
+* Mac OS
+* Windows
+* Linux
+
+### Other resources
+* [Codebase](https://github.com/zkSNACKs/WalletWasabi/)
+* [Documentation](https://docs.wasabiwallet.io/)
+* [Telegram](https://t.me/WasabiWallet)
+* [Setup Video](https://youtu.be/kocEpndQcsg)
 
 ***
 
