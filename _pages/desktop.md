@@ -72,21 +72,22 @@ Desktop wallets offer more usability and often, a greater feature set when compa
 * [Telegram](https://t.me/blockstream_green)
 * [Video](https://youtu.be/uO3Zi9D5b0Y)
 
+***
 
 ## Electrum
 
-[Electrum](https://electrum.org/#home) is one of the more basic desktop wallets. Green is cross platform, enabling you to have the same wallet on your mobile and computer simultaneously. Sending a transaction is done through a 2-of-2 [multi-sig setup](https://help.blockstream.com/hc/en-us/articles/900001388366-What-does-Blockstream-Green-s-multisig-protect-from-) but own node connection is not available.
+[Electrum](https://electrum.org/#home) is widely adopted desktop wallet that comes with a vast feature set and extensive hardware wallet support. Electrum supports multi-sig, coin control, labelling, Lightning and own node connection via an [Electrum Server](https://github.com/romanz/electrs). It is worth noting that by default Electrum connects to multiple third party servers which could leak your privacy.   
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/Electrum%20Desktop.png" class=responsive width="600" height="400" maxheight="500">
 
 ### Noteable Features
-* Cross platform
-* Multiple accounts
+* Own Node connection (not by default)
+* Coin control + labelling
+* Lightning
+* Extensive hardware wallet support
 
 ### Noteable Limitations
-* No node connection
-* No coin control or labelling
-* No hardware wallet support
+* UX lagging behind other implementations
 
 ### Available on
 * Mac OS
@@ -94,12 +95,40 @@ Desktop wallets offer more usability and often, a greater feature set when compa
 * Linux
 
 ### Other resources
-* [Codebase](https://github.com/Blockstream/green_qt)
-* [Documentation](https://help.blockstream.com/hc/en-us/categories/900000056183-Blockstream-Green)
-* [Telegram](https://t.me/blockstream_green)
-* [Video](https://youtu.be/uO3Zi9D5b0Y)
+* [Codebase](https://github.com/spesmilo/electrum)
+* [Documentation](https://electrum.readthedocs.io/en/latest/)
+* [Reddit](https://www.reddit.com/r/Electrum/)
+* [Video](https://www.keepitsimplebitcoin.com/electrum-bitcoin-wallet/)
+
+***
 
 ## Fully Noded
+
+[Fully Noded](https://fullynoded.app/) is an extremely feature rich Mac OS Bitcoin and Lightning wallet that connects to your own node by easily by scanning a QR code. Fully Noded also allows you to interact with your node by running RPC commands so that you can do things like verify the total supply of Bitcoin.
+
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/FN%20desktop.png" class=responsive width="575" height="450" maxheight="450">
+
+### Noteable Features
+* Connect to own node (default)
+* PSBT and multi-sig
+* Coin control
+* Runs over Tor
+
+### Noteable Limitations
+* C Lightning implementation not common amongst average node runners
+* No windows or Linux option
+* Only supports Coldcard hardware wallet 
+
+### Available on
+* Mac OS
+
+### Other resources
+* [Codebase](https://github.com/Fonta1n3/FullyNoded)
+* [Documentation](https://github.com/Fonta1n3/FullyNoded/blob/master/Docs)
+* [Telegram](https://t.me/FullyNoded)
+* [Setup Video](https://www.youtube.com/channel/UCKvdcFJh7H96NJhwZrsNeqw)
+
+***
 
 ## Lily Wallet
 
