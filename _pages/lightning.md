@@ -93,7 +93,7 @@ Lightning native wallets aren't that different from a 'normal' bitcoin wallet, i
 
 ## Zeus
 
-[Zeus](https://zeusln.app/) is a remote control app that works by connecting to your own node via local IP address or over the Tor network. Zeus allows the user to send/recieve on and off chain transactions, manage channels, view invoices and routing fees from anywhere in the world (VPN or Tor option required).  
+[Zeus](https://zeusln.app/) is a remote control app that works by connecting to your own node via local IP address or over the Tor network. Zeus allows the user to send/recieve on and off chain transactions, manage channels, view invoices and routing fees from anywhere in the world (VPN or Tor option required). Zeus works with all of the popular node implementations.
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/zeus.png" class=responsive width="260" height="450" maxheight="500">
 
@@ -103,18 +103,19 @@ Lightning native wallets aren't that different from a 'normal' bitcoin wallet, i
 * Tor option
 
 ### Notable Limitations
-* Not as easy for newcomers compared with other options
+* Node requirement a hurdle for newcomers
 
 ### Available on
-* IOS + Android
+* iOS + Android
 
 ### Other resources
 * [Codebase](https://github.com/ZeusLN/zeus/releases)
 * [Documentation](https://github.com/ZeusLN/zeus)
 * [Telegram](https://t.me/zeusLN)
+* [Setup Guide](https://www.bitcoinqna.com/post/zeus-101)
 
 ***
 
  <a href="#top">Back to top</a>
 
-Finished looking for a mobile wallet? Check out the [desktop](/desktop) options available.
+Back to [home](https://bitcoinwallet.guide)
