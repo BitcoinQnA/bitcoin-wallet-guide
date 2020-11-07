@@ -73,6 +73,7 @@ Is your project missing? Please create an [issue](https://github.com/BitcoinQnA/
     - [Eclair](https://play.google.com/store/apps/details?id=fr.acinq.eclair.wallet.mainnet2)
     - [Phoenix](https://phoenix.acinq.co/)
     - [Zap](https://zaphq.io/)
+    - [Zeus](https://zeusln.app/#1#hero-2)
 
 ***
 
