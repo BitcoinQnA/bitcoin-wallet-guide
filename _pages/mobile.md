@@ -48,7 +48,7 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 
 ## Blue Wallet
 
-[Blue Wallet](https://bluewallet.io/) is feature packed but still manages to provide quick and easy access to both Bitcoin and Lightning. Blue wallet and serves as a great option to use Bitcoin daily and simultaneously act as 'watch only' wallet for your cold storage devices. Connection to your own node is done via an Electrum server. Full list of features [here](https://bluewallet.io/features/).
+[Blue Wallet](https://bluewallet.io/) is feature packed but still manages to provide quick and easy access to both Bitcoin and Lightning. Lightning is custodial by default but allows users to connect to their own instance of [LND Hub](https://lndhub.io/about). Blue wallet and serves as a great option to use Bitcoin daily and simultaneously act as 'watch only' wallet for your cold storage devices. Connection to a users own node is done via an Electrum server. Full list of features [here](https://bluewallet.io/features/).
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/security-app.png" class=responsive width="320" height="500" maxheight="300">
 
@@ -75,7 +75,7 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 
 ## Eclair
 
-[Eclair](https://play.google.com/store/apps/details?id=fr.acinq.eclair.wallet.mainnet2) is an Android only mobile app that allows users to seamlessly swap between Bitcoin and Lightning. Eclair allows connection to a user's own node via an Electrum server for on-chain privacy and runs a stripped down Lightning node on your phone that requires manual channel management. 
+[Eclair](https://play.google.com/store/apps/details?id=fr.acinq.eclair.wallet.mainnet2) is an Android only mobile app that allows users to seamlessly swap between Bitcoin and Lightning. Eclair allows connection to a user's own node via an Electrum server for on-chain privacy and runs a stripped down Lightning node on the phone and requires manual channel management. 
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/unnamed.png" class=responsive width="220" height="420" maxheight="420">
 
@@ -101,7 +101,7 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 
 ## Electrum
 
-[Elecrum Mobile](https://electrum.org/#home) is better known for it's widely used desktop wallet, however an Android offering is also available. It supports both Bitcoin and Lightning and has the ability to create multi-sig as well as importing wallets. Connection to your own node is done via an Electrum server.
+[Elecrum Mobile](https://electrum.org/#home) is better known for it's widely used desktop wallet, however an Android offering is also available. It supports both Bitcoin and Lightning and has the ability to create multi-sig and watch only wallets. Connection to your own node is done via an Electrum server.
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/Electrum%20mobile.png" class=responsive width="275" height="300" maxheight="300">
 
@@ -112,7 +112,7 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 * Coin control
 
 ### Notable Limitations
-* User experience
+* User interface lacking
 
 ### Available on
 * Android
@@ -158,7 +158,7 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 
 ### Notable Features
 * Donation web pages
-* Simple batching
+* Transaction batching
 * Redeem Fast Bitcoins vouchers
 * Unique backup process
 
