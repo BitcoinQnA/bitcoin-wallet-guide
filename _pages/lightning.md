@@ -4,14 +4,14 @@ title: Lightning Wallets
 permalink: /lightning/
 ---
 
-INSERT INTRO HERE  
+Lightning native wallets aren't that different from a 'normal' bitcoin wallet, in fact some of the options below offer both, but come with a particular focus on Lightning functionality of small/fast payments. Some achieve on-chain interaction via the use of [submarine swaps](https://bitcoinmagazine.com/articles/pay-bitcoin-mainnet-lightning-and-back-submarine-swaps-are-now-live), others allow users to connect to their own Bitcoin and/or Lightning node.  
 
 ### Table of Contents
 
-2.  [Breez](#breez)
-4.  [Phoenix](#phoenix)
-5.  [Zap](#zap)
-5.  [Zeus](#zeus)
+1.  [Breez](#breez)
+2.  [Phoenix](#phoenix)
+3.  [Zap](#zap)
+4.  [Zeus](#zeus)
 
 ***
 
@@ -67,6 +67,29 @@ INSERT INTRO HERE
 ***
 
 ## Zap
+
+[Zap](https://zaphq.io/) has multiple [implementations](https://zaphq.io/download), all offering slightly different functionality. Both main release mobile offerings currently do not allow wallet creation and only offer remote Lightning node connection although the [testflight](https://testflight.apple.com/join/elC3EXAK) version on iOS does offer wallet creation functionality. All of the desktop applications come with a built in node but also allow for remote node connectivity and wallet creation. All Zap offerings come with a simple user interface and support on and off chain transactions.
+
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/Zap.png" class=responsive width="220" height="450" maxheight="500">
+
+### Notable Features
+* Connect to own node
+* Built in node (desktop)
+* Remotely manage channels from your phone
+
+### Notable Limitations
+* No mobile wallet creation on main releases
+* Manual channel management
+
+### Available on
+* iOS + Android + Desktop
+
+### Other resources
+* [Codebase](https://github.com/LN-Zap)
+* [Documentation](https://docs.zaphq.io/)
+* [Slack](https://join.slack.com/t/zaphq/shared_invite/enQtMzgyNDA2NDI2Nzg0LWQ1OGMyMWI3YTdmYTQ0YTVmODg4ZmNkYjQ1MzUxNGExMGRmZWEyNTUyOGQzMzZkYTdhODE3NmQxZWZiOGFkYWI)
+
+***
 
 ## Zeus
 
