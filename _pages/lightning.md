@@ -43,6 +43,29 @@ INSERT INTRO HERE
 
 ## Phoenix
 
+[Phoenix](https://phoenix.acinq.co/) is another great starter wallet for users wanting to onboard with Lightning. Much like Breez, Phoenix seamlessly supports on-chain send/receive transactions via submarine swaps and also opens channels on demand for a small fee. These swaps result in a certain level of trust in the entity running the swap service (Acinq) and users should also consider the privacy tradeoffs that come with this setup too.
+
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/Phoenix.png" class=responsive width="220" height="450" maxheight="500">
+
+### Notable Features
+* Connect to own node
+* Send/Receive on chain via swaps 
+* Tor option
+
+### Notable Limitations
+* No iOS option
+
+### Available on
+* Android
+
+### Other resources
+* [Codebase](https://github.com/ACINQ/phoenix)
+* [Documentation](https://phoenix.acinq.co/faq)
+* [Telegram](https://t.me/phoenix_wallet)
+* [Video](https://youtu.be/Cx5PK1H5OR0)
+
+***
+
 ## Zap
 
 ## Zeus
