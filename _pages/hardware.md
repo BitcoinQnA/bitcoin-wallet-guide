@@ -4,7 +4,7 @@ title: Hardware Wallets
 permalink: /hardware/
 ---
 
-Hardware wallets offers an exponential increase in security when compared with mobile or desktop wallets. They are designed so that your provate keys are generated and stored on a dedicated device that is not connected to any potentially malware infected device. However, some of these require plugging into a computer to interact with, which exposes them to more risk than their airgapped counterparts. For the ultimate setup in terms of privacy and security, you should look to use an air gapped device in conjunction with a [desktop wallet](/desktop) that is connected to your own [node](https://node.guide). 
+Hardware wallets offers an exponential increase in security when compared with mobile or desktop wallets. They are designed so that your private keys are generated and stored on a dedicated device that is not connected to any potentially malware infected device. However, some of these require plugging into a computer to interact with, which exposes them to more risk than their airgapped counterparts. For the ultimate setup in terms of privacy and security, you should look to use an air gapped device in conjunction with a [desktop wallet](/desktop) that is connected to your own [node](https://node.guide). 
 
 This does of course come with additional hurdles that may be difficult to overcome for first timers, which is why there are items in this list that trade-off some of that security and privacy to make the user experience smoother by offering a companion app and USB plug in option. Some options in the list below offer alt coin support as well as a Bitcoin only firmware option, always ensure you opt for the Bitcoin only version to minimise another attack vector risk.
 
