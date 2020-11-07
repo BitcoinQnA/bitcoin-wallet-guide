@@ -25,12 +25,12 @@ Desktop wallets offer more usability and often, a greater feature set when compa
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/node-guide/master/images/photo_2020-10-25_16-27-15.jpg" class=responsive width="500" height="400" maxheight="500">
 
-### Noteable Features
+### Notable Features
 * Built in node
 * Coin control + labelling
 * Can be run over Tor
 
-### Noteable Limitations
+### Notable Limitations
 * No hardware wallet support within GUI
 
 ### Available on
@@ -52,11 +52,11 @@ Desktop wallets offer more usability and often, a greater feature set when compa
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/Green%20Desktop.png" class=responsive width="600" height="400" maxheight="500">
 
-### Noteable Features
+### Notable Features
 * Cross platform
 * Multiple accounts
 
-### Noteable Limitations
+### Notable Limitations
 * No node connection
 * No coin control or labelling
 * No hardware wallet support
@@ -80,13 +80,13 @@ Desktop wallets offer more usability and often, a greater feature set when compa
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/Electrum%20Desktop.png" class=responsive width="600" height="400" maxheight="500">
 
-### Noteable Features
+### Notable Features
 * Own Node connection (not by default)
 * Coin control + labelling
 * Lightning
 * Extensive hardware wallet support
 
-### Noteable Limitations
+### Notable Limitations
 * UX lagging behind other implementations
 
 ### Available on
@@ -108,13 +108,13 @@ Desktop wallets offer more usability and often, a greater feature set when compa
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/FN%20desktop.png" class=responsive width="575" height="450" maxheight="450">
 
-### Noteable Features
+### Notable Features
 * Connect to own node (default)
 * PSBT and multi-sig
 * Coin control
 * Runs over Tor
 
-### Noteable Limitations
+### Notable Limitations
 * C Lightning implementation not common amongst average node runners
 * No windows or Linux option
 * Only supports Coldcard hardware wallet 
@@ -136,12 +136,12 @@ Desktop wallets offer more usability and often, a greater feature set when compa
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/lily.png" class=responsive width="600" height="400" maxheight="450">
 
-### Noteable Features
+### Notable Features
 * PSBT and multi-sig
 * Export wallets to other software
 
 
-### Noteable Limitations
+### Notable Limitations
 * No own node connection
 * No coin control
 
@@ -164,13 +164,13 @@ Desktop wallets offer more usability and often, a greater feature set when compa
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/Spceter_Desktop_Multisig_Devices-1024x588.jpg" class=responsive width="630" height="400" maxheight="450">
 
-### Noteable Features
+### Notable Features
 * Connect to own node (mandatory)
 * PSBT and multi-sig
 * Coin control
 * Runs over Tor
 
-### Noteable Limitations
+### Notable Limitations
 * Tor connection not easy for beginners
 
 ### Available on
@@ -192,13 +192,13 @@ Desktop wallets offer more usability and often, a greater feature set when compa
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/control-your-sends.png" class=responsive width="630" height="400" maxheight="450">
 
-### Noteable Features
+### Notable Features
 * Connect to own node (mandatory)
 * PSBT and multi-sig
 * Coin control
 * Runs over Tor
 
-### Noteable Limitations
+### Notable Limitations
 * Node/Electrum Server setup may be a big hurdle for newcomers
 
 ### Available on
@@ -220,13 +220,13 @@ Desktop wallets offer more usability and often, a greater feature set when compa
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/Send.png" class=responsive width="630" height="400" maxheight="450">
 
-### Noteable Features
+### Notable Features
 * Connect to own node or run internal
 * PSBT and multi-sig
 * Coin control and labelling
 * Runs over Tor
 
-### Noteable Limitations
+### Notable Limitations
 * Postmix spending not well managed
 * Coinjoin implementation suffers from address reuse
 
