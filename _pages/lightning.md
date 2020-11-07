@@ -21,13 +21,13 @@ INSERT INTRO HERE
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/breez.png" class=responsive width="220" height="450" maxheight="500">
 
-### Noteable Features
+### Notable Features
 * Connect to own node
 * Send/Receive on chain via swaps 
 * POS app built in
 * Fast onboarding
 
-### Noteable Limitations
+### Notable Limitations
 * Requires Google Play services to for 100% functionality
 
 ### Available on
