@@ -134,4 +134,4 @@ This does of course come with additional hurdles that may be difficult to overco
 
  <a href="#top">Back to top</a>
 
-Finished looking for a desktop wallet? Check out the available [hardware wallet](/hardware) options.
+Finished looking for a hardware wallet? Check out the available [Lightning native](/lightning) wallets.
