@@ -24,12 +24,12 @@ This does of course come with additional hurdles that may be difficult to overco
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/bixbox02.png" class=responsive width="300" height="150" maxheight="150">
 
-### Noteable Features
+### Notable Features
 * Companion desktop [app](https://shiftcrypto.ch/download/) that connects to your node
 * Very simple setup process
 * Automatic SD card backups
 
-### Noteable Limitations
+### Notable Limitations
 * Plug in via USB only
 * SD card backup not encrypted
 
@@ -47,13 +47,13 @@ This does of course come with additional hurdles that may be difficult to overco
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/Cobo%20Vault.png" class=responsive width="250" height="400" maxheight="300">
 
-### Noteable Features
+### Notable Features
 * Completely airgapped operation
 * Large touchscreen
 * PSBT
 * Good range of options for all types of user
 
-### Noteable Limitations
+### Notable Limitations
 * Companion app (not required for use) cannot connect to own node 
 
 ### Other resources
@@ -70,13 +70,13 @@ This does of course come with additional hurdles that may be difficult to overco
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/coldcard-front.png" class=responsive width="210" height="350" maxheight="350">
 
-### Noteable Features
+### Notable Features
 * Completely airgapped operation
 * Encrypted backups
 * Duress attack solutions
 * Beginners have the option to use via USB
 
-### Noteable Limitations
+### Notable Limitations
 * Menu system not as easy to navigate as alternatives
 
 ### Other resources
@@ -93,12 +93,12 @@ This does of course come with additional hurdles that may be difficult to overco
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/Specter%20DIY.png" class=responsive width="210" height="390" maxheight="390">
 
-### Noteable Features
+### Notable Features
 * Completely airgapped operation
 * Drastically minimises supply chain attack vector
 * Built to user specification
 
-### Noteable Limitations
+### Notable Limitations
 * Not for beginners
 * Still in prototype status
 
@@ -116,11 +116,11 @@ This does of course come with additional hurdles that may be difficult to overco
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/T2-removebg-preview.png" class=responsive width="250" height="220" maxheight="220">
 
-### Noteable Features
+### Notable Features
 * Colour touchscreen (Model T)
 * Shamir backups
 
-### Noteable Limitations
+### Notable Limitations
 * Plug in via USB only
 * Default web wallet leaks privacy and does not support bech32
 
