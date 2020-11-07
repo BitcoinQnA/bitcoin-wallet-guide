@@ -43,7 +43,7 @@ This does of course come with additional hurdles that may be difficult to overco
 
 ## Cobo Vault
 
-[Cobo Vault](https://cobo.com/hardware-wallet) offers three distinct options. The [Essential](https://shop.cobo.com/products/cobo-vault-essential), the [Pro](https://shop.cobo.com/products/cobo-vault) and the [Ultimate](https://shop.cobo.com/products/cobo-vault-ultimate). Their core functionality is the same but you can compare the differences [here](https://cobo.com/hardware-wallet/hardware-wallet-comparison). The Cobo Vault uses a true air gap operation, doing all transaction signing via QR codes and all firmware updates via SD card. The device supports all major desktop applications and allows the user to provide additional entropy when generating a seed which can then be saved via [Shamir](https://medium.com/cobo-vault/why-cobo-vault-implemented-shamir-backups-4665ae379396) backups.
+[Cobo Vault](https://cobo.com/hardware-wallet) offers three distinct options. The [Essential](https://shop.cobo.com/products/cobo-vault-essential), the [Pro](https://shop.cobo.com/products/cobo-vault) and the [Ultimate](https://shop.cobo.com/products/cobo-vault-ultimate). Their core functionality is the same but you can compare the differences [here](https://cobo.com/hardware-wallet/hardware-wallet-comparison). The Cobo Vault uses a true air gap operation, doing all transaction signing via QR codes and all firmware updates via SD card. The device supports all major desktop applications and allows the user to provide additional entropy when generating a seed which can then be saved via [Shamir](https://medium.com/cobo-vault/why-cobo-vault-implemented-shamir-backups-4665ae379396) backups. Users should ensure they install the Bitcoin only [firmware](https://cobo.com/hardware-wallet/downloads).
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/Cobo%20Vault.png" class=responsive width="250" height="400" maxheight="300">
 
@@ -86,6 +86,7 @@ This does of course come with additional hurdles that may be difficult to overco
 * [Video](https://www.youtube.com/playlist?list=PLZKkuPrgFw0axLoDDzxAIYzpZeC_T1i7W)
 
 ***
+
 ## Specter DIY
 
 [Specter DIY](https://specter.solutions/) is an open-source hardware wallet with large touchscreen, QR-code scanner and a smartcard-reader. As the name suggests, this device is built by the user with off the shelf [parts](https://github.com/cryptoadvance/specter-diy/blob/master/docs/shopping.md) that can be purchased from a number of different manufacturers which almost eliminates supply chain risk. Once assembled, the user then flashes the firmware onto the device and proceeds with device setup. The device is supported by Specter Desktop but is still an early project and is not well suited to someone with limited technical knowledge, proceed with caution.
@@ -104,6 +105,28 @@ This does of course come with additional hurdles that may be difficult to overco
 ### Other resources
 * [Codebase](https://github.com/cryptoadvance/specter-diy)
 * [Documentation](https://github.com/cryptoadvance/specter-diy/tree/master/docs)
+* [Telegram](https://t.me/spectersupport)
+* [Video](https://www.youtube.com/watch?v=1H7FqG_FmCw)
+
+***
+
+## Trezor
+
+[Trezor](https://shop.trezor.io/) have two offerings, the [One](https://shop.trezor.io/product/trezor-one-white) and the [Model T](https://shop.trezor.io/product/trezor-model-t). The Model T is their flagship model and offers a colour touchscreen making interaction simple. Both devices require being plugged into a computer to sign transactions and are compatible with all popular desktop wallet options. Users should ensure they install the Bitcoin only [firmware](https://wiki.trezor.io/Bitcoin_firmware#Installing_the_Bitcoin-only_firmware).
+
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/T2.jpg" class=responsive width="250" height="220" maxheight="220">
+
+### Noteable Features
+* Colour touchscreen (Model T)
+* Shamir backups
+
+### Noteable Limitations
+* Plug in via USB only
+* Default web wallet leaks privacy and does not support bech32
+
+### Other resources
+* [Codebase](https://github.com/trezor)
+* [Documentation](https://wiki.trezor.io/Wallet_manual)
 * [Telegram](https://t.me/spectersupport)
 * [Video](https://www.youtube.com/watch?v=1H7FqG_FmCw)
 
