@@ -10,6 +10,7 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 
 2.  [Blockstream Green](#blockstream-green)
 3.  [Blue Wallet](#blue-wallet)
+4.  [Eclair](#eclair)
 4.  [Electrum](#electrum)
 5.  [Fully Noded](#fully-noded)
 7.  [Hexa](#hexa)
@@ -24,13 +25,13 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/imageedit_2_8794344245.png" class=responsive width="220" height="450" maxheight="500">
 
-### Noteable Features
+### Notable Features
 * Connect to own node
 * Support for certain hardware wallets
 * Create multiple accounts
 * Runs over Tor
 
-### Noteable Limitations
+### Notable Limitations
 * No coin control
 * No native segwit
 
@@ -51,13 +52,13 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/security-app.png" class=responsive width="320" height="500" maxheight="300">
 
-### Noteable Features
+### Notable Features
 * Connect to own node
 * PSBT and multi-sig
 * Create multiple accounts
 * Buy bitcoin within the app via Hodl Hodl
 
-### Noteable Limitations
+### Notable Limitations
 * No coin control
 * No Tor
 
@@ -71,6 +72,30 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 * [Video](https://youtu.be/imMX7i4qpmg)
 
 ***
+## Eclair
+
+[Eclair](https://play.google.com/store/apps/details?id=fr.acinq.eclair.wallet.mainnet2) 
+
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/unnamed.png" class=responsive width="220" height="420" maxheight="420">
+
+### Notable Features
+* Connect to own node
+* Supports passphrase 
+* Lightning enabled
+
+### Noteble Limitations
+* 
+
+### Available on
+* Android
+
+### Other resources
+* [Codebase](https://github.com/ACINQ/eclair)
+* [Documentation](https://github.com/acinq/eclair/wiki)
+* [Contact](https://twitter.com/acinq_co)
+* [Video](https://youtu.be/wq4lF2s4UtI)
+
+***
 
 ## Electrum
 
@@ -78,13 +103,13 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/Electrum%20mobile.png" class=responsive width="275" height="300" maxheight="300">
 
-### Noteable Features
+### Notable Features
 * Connect to own node
 * Multi-sig + watch only
 * Multiple wallets
 * Coin control
 
-### Noteable Limitations
+### Notable Limitations
 * User experience
 
 ### Available on
@@ -103,13 +128,13 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/IMG_1051.PNG" class=responsive width="275" height="450" maxheight="450">
 
-### Noteable Features
+### Notable Features
 * Connect to own node
 * PSBT and multi-sig
 * Coin control
 * Runs over Tor
 
-### Noteable Limitations
+### Notable Limitations
 * C Lightning implementation not common amongst average node runners
 
 ### Available on
@@ -129,13 +154,13 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/component-1.png" class=responsive width="420" height="380" maxheight="300">
 
-### Noteable Features
+### Notable Features
 * Donation web pages
 * Simple batching
 * Redeem Fast Bitcoins vouchers
 * Unique backup process
 
-### Noteable Limitations
+### Notable Limitations
 * No own node connection
 * No Tor
 * No coin control
@@ -157,11 +182,11 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/phone-mockup.png" class=responsive width="350" height="420" maxheight="300">
 
-### Noteable Features
+### Notable Features
 * Pay Lightning invoices via submarine swaps
 * Connects to Trezor hardware wallet
 
-### Noteable Limitations
+### Notable Limitations
 * No coin control
 * No Tor
 * No own node connection
@@ -182,13 +207,13 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/hero_shot_nodev.png" class=responsive width="300" height="500" maxheight="300">
 
-### Noteable Features
+### Notable Features
 * Connect to own node
 * Runs over Tor
 * Coinjoin + Payjoin
 * Coin control
 
-### Noteable Limitations
+### Notable Limitations
 * Still in alpha phase, expect occasional UX bugs
 
 ### Available on
