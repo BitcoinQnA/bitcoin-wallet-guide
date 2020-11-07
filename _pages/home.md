@@ -12,7 +12,7 @@ There goes a famous saying amongst Bitcoiners, ***'not your keys, not your coins
 
 ###  Feature Criteria 
 
-To be featured in this guide, a wallet must meet these base criteria.
+For feature consideration in this guide, a wallet must meet these base criteria.
 
   1.  Be non custodial
   2.  Be open source
