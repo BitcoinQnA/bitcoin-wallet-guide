@@ -20,7 +20,7 @@ This does of course come with additional hurdles that may be difficult to overco
 
 ## Bitbox02
 
-[BitBox02](https://shiftcrypto.shop/en/products/bitbox02-bitcoin-only-edition-pre-order-4/#carousel-example-generic) comes with a touch sensitive interface and when combined with the companion desktop app, makes the setup and interaction a breeze for beginners. The BitBox02 has to be plugged into a computer to function and as well as it's own companion desktop app (which offers coin control), also works with all popular desktop wallets.   
+[BitBox02](https://shiftcrypto.shop/en/products/bitbox02-bitcoin-only-edition-pre-order-4/#carousel-example-generic) comes with a touch sensitive interface and when combined with the companion desktop app, makes the setup and interaction a breeze for beginners. The BitBox02 has to be plugged into a computer to function and as well as it's own companion desktop app (which offers coin control), also works with all popular desktop wallets. Users should ensure they manually write down their seed words upon setup, this is not enforced by the app.   
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/bixbox02.png" class=responsive width="300" height="150" maxheight="150">
 
@@ -43,29 +43,69 @@ This does of course come with additional hurdles that may be difficult to overco
 
 ## Cobo Vault
 
-[Cobo Vault](https://cobo.com/hardware-wallet) 
+[Cobo Vault](https://cobo.com/hardware-wallet) offers three distinct options. The [Essential](https://shop.cobo.com/products/cobo-vault-essential), the [Pro](https://shop.cobo.com/products/cobo-vault) and the [Ultimate](https://shop.cobo.com/products/cobo-vault-ultimate). Their core functionality is the same but you can compare the differences [here](https://cobo.com/hardware-wallet/hardware-wallet-comparison). The Cobo Vault uses a true air gap operation, doing all transaction signing via QR codes and all firmware updates via SD card. The device supports all major desktop applications and allows the user to provide additional entropy when generating a seed which can then be saved via [Shamir](https://medium.com/cobo-vault/why-cobo-vault-implemented-shamir-backups-4665ae379396) backups.
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/Cobo%20Vault.png" class=responsive width="250" height="400" maxheight="300">
 
 ### Noteable Features
-* 
-* 
-* 
+* Completely airgapped operation
+* Large touchscreen
+* PSBT
+* Good range of options for all types of user
 
 ### Noteable Limitations
-* 
-*
-
-### Available on
-* 
-* 
-* 
+* Companion app (not required for use) cannot connect to own node 
 
 ### Other resources
 * [Codebase](https://github.com/CoboVault)
 * [Documentation](https://support.cobo.com/hc/en-us/articles/360045490014-Getting-started-in-5-steps)
 * [Telegram](https://t.me/CoboVault)
 * [Video](https://youtu.be/JnRjvZKulrA)
+
+***
+
+## Coldcard
+
+[Coldcard](https://coldcardwallet.com/) has been the default hardware wallet option for more focused bitcoiner for multiple years, and for good reason. Coldcard offers a true airgapped operation and achieves all transaction signing and firmware updates via the SD card. The Coldcard has a massive feature set that include encrypted SD card backups, paper wallet generation, user added entropy and [BIP85](https://github.com/bitcoin/bips/blob/master/bip-0085.mediawiki) support for deriving multiple wallets from a single seed. Coldcard is compatible with all major desktop wallet integrations.
+
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/coldcard-front.png" class=responsive width="210" height="350" maxheight="350">
+
+### Noteable Features
+* Completely airgapped operation
+* Encrypted backups
+* Duress attack solutions
+* Beginners have the option to use via USB
+
+### Noteable Limitations
+* Menu system not as easy to navigate as alternatives
+
+### Other resources
+* [Codebase](https://github.com/coldcard/)
+* [Documentation](https://coldcardwallet.com/docs/)
+* [Telegram](https://t.me/coldcard)
+* [Video](https://www.youtube.com/playlist?list=PLZKkuPrgFw0axLoDDzxAIYzpZeC_T1i7W)
+
+***
+## Specter DIY
+
+[Specter DIY](https://specter.solutions/) is an open-source hardware wallet with large touchscreen, QR-code scanner and a smartcard-reader. As the name suggests, this device is built by the user with off the shelf [parts](https://github.com/cryptoadvance/specter-diy/blob/master/docs/shopping.md) that can be purchased from a number of different manufacturers which almost eliminates supply chain risk. Once assembled, the user then flashes the firmware onto the device and proceeds with device setup. The device is supported by Specter Desktop but is still an early project and is not well suited to someone with limited technical knowledge, proceed with caution.
+
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/Specter%20DIY.png" class=responsive width="210" height="390" maxheight="390">
+
+### Noteable Features
+* Completely airgapped operation
+* Drastically minimises supply chain attack vector
+* Built to user specification
+
+### Noteable Limitations
+* Not for beginners
+* Still in prototype status
+
+### Other resources
+* [Codebase](https://github.com/cryptoadvance/specter-diy)
+* [Documentation](https://github.com/cryptoadvance/specter-diy/tree/master/docs)
+* [Telegram](https://t.me/spectersupport)
+* [Video](https://www.youtube.com/watch?v=1H7FqG_FmCw)
 
 ***
 
