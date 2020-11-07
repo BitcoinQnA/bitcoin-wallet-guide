@@ -114,7 +114,7 @@ This does of course come with additional hurdles that may be difficult to overco
 
 [Trezor](https://shop.trezor.io/) have two offerings, the [One](https://shop.trezor.io/product/trezor-one-white) and the [Model T](https://shop.trezor.io/product/trezor-model-t). The Model T is their flagship model and offers a colour touchscreen making interaction simple. Both devices require being plugged into a computer to sign transactions and are compatible with all popular desktop wallet options. Users should ensure they install the Bitcoin only [firmware](https://wiki.trezor.io/Bitcoin_firmware#Installing_the_Bitcoin-only_firmware).
 
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/T2.jpg" class=responsive width="250" height="220" maxheight="220">
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/T2-removebg-preview.png" class=responsive width="250" height="220" maxheight="220">
 
 ### Noteable Features
 * Colour touchscreen (Model T)
