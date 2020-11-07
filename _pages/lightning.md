@@ -4,7 +4,7 @@ title: Lightning Wallets
 permalink: /lightning/
 ---
 
-Lightning native wallets aren't that different from a 'normal' bitcoin wallet, in fact some of the options below offer both, but come with a particular focus on Lightning functionality of small/fast payments. Some achieve on-chain interaction via the use of [submarine swaps](https://bitcoinmagazine.com/articles/pay-bitcoin-mainnet-lightning-and-back-submarine-swaps-are-now-live), others allow users to connect to their own Bitcoin and/or Lightning node.  
+Lightning native wallets aren't that different from a 'normal' bitcoin wallet, in fact some of the options below offer both, but come with a particular focus on Lightning functionality of small/fast payments. Some achieve on-chain interaction via the use of [submarine swaps](https://bitcoinmagazine.com/articles/pay-bitcoin-mainnet-lightning-and-back-submarine-swaps-are-now-live), others require users to connect to their own Bitcoin and/or Lightning node. 
 
 ### Table of Contents
 
