@@ -104,7 +104,7 @@ Desktop wallets offer more usability and often, a greater feature set when compa
 
 ## Fully Noded
 
-[Fully Noded](https://fullynoded.app/) is an extremely feature rich Mac OS Bitcoin and Lightning wallet that connects to your own node by easily by scanning a QR code. Fully Noded also allows you to interact with your node by running RPC commands so that you can do things like verify the total supply of Bitcoin.
+[Fully Noded](https://fullynoded.app/) is an extremely feature rich Mac OS Bitcoin and Lightning wallet that connects to your own node by easily by scanning a QR code. Fully Noded also allows you to interact with your node by running RPC commands so that you can do things like verify the total supply of Bitcoin. Users can import wallet files from various other applications such as Electrum, Specter and Sparrow. 
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/FN%20desktop.png" class=responsive width="575" height="450" maxheight="450">
 
@@ -228,7 +228,7 @@ Desktop wallets offer more usability and often, a greater feature set when compa
 
 ### Noteable Limitations
 * Postmix spending not well managed
-* Coinjoin implementation has address reuse
+* Coinjoin implementation suffers from address reuse
 
 ### Available on
 * Mac OS
