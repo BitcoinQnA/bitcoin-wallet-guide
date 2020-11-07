@@ -41,7 +41,7 @@ Regardless of the type of wallet(s) you use, always ensure you have a physical [
 
 Bitcoin wallets can come in many forms. Below are the four main categories they fit into and the external links to the projects covered on this site.
 
-Is your project missing? Please create an [issue](https://github.com/BitcoinQnA/bitcoin-wallet-guide) and we will check you out.
+Is your project missing? Please create an [issue](https://github.com/BitcoinQnA/bitcoin-wallet-guide/issues) and we will check you out.
 
 -  **Mobile Wallets** - Wallets that run on your phone
    - [Blockstream Green](https://blockstream.com/green/)
