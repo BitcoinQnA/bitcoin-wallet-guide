@@ -75,7 +75,7 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 
 ## Eclair
 
-[Eclair](https://play.google.com/store/apps/details?id=fr.acinq.eclair.wallet.mainnet2) is an Android only mobile app that allows users to seamlessly swap between Bitcoin and Lightning. Eclair allows connection to a user's own node via an Electrum server. 
+[Eclair](https://play.google.com/store/apps/details?id=fr.acinq.eclair.wallet.mainnet2) is an Android only mobile app that allows users to seamlessly swap between Bitcoin and Lightning. Eclair allows connection to a user's own node via an Electrum server for on-chain privacy and runs a stripped down Lightning node on your phone that requires manual channel management. 
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/unnamed.png" class=responsive width="220" height="420" maxheight="420">
 
