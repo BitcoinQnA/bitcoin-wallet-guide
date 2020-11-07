@@ -4,7 +4,9 @@ title: Hardware Wallets
 permalink: /hardware/
 ---
 
-Desktop wallets offer more usability and often, a greater feature set when compared with their mobile counterparts. Desktop wallets offer hardware wallet support, and more recently have shifted more towards easy multi-sig setup and usage. Desktop wallets make interacting with bitcoin held in cold storage on a hardware wallet, much easier but they are not well suited to daily use. Computers are inherently more at risk of being exposed to malicious software compared to phones, so always double check the download source before installing any desktop software and if you have the knowledge, verify the software signature.
+Hardware wallets offers an exponential increase in security when compared with mobile or desktop wallets. They are designed so that your provate keys are generated and stored on a dedicated device that is not connected to any potentially malware infected device. However, some of these require plugging into a computer to interact with, which exposes them to more risk than their airgapped counterparts. For the ultimate setup in terms of privacy and security, you should look to use an air gapped device in conjunction with a [desktop wallet](/desktop) that is connected to your own [node](https://node.guide). 
+
+This does of course come with additional hurdles that may be difficult to overcome for first timers, which is why there are items in this list that trade-off some of that security and privacy to make the user experience smoother by offering a companion app and USB plug in option. Some options in the list below offer alt coin support as well as a Bitcoin only firmware option, always ensure you opt for the Bitcoin only version to minimise another attack vector risk.
 
 ### Table of Contents
 
@@ -12,29 +14,24 @@ Desktop wallets offer more usability and often, a greater feature set when compa
 2.  [Cobo Vault](#cobo-vault)
 3.  [Coldcard](#coldcard)
 4.  [Specter DIY](#specter-diy)
-5.  [Trezor](#lily-wallet)
+5.  [Trezor](#trezor)
 
 ***
 
 ## Bitbox02
 
-[BitBox02](https://shiftcrypto.shop/en/products/bitbox02-bitcoin-only-edition-pre-order-4/#carousel-example-generic) 
+[BitBox02](https://shiftcrypto.shop/en/products/bitbox02-bitcoin-only-edition-pre-order-4/#carousel-example-generic) comes with a touch sensitive interface and when combined with the companion desktop app, makes the setup and interaction a breeze for beginners. The BitBox02 has to be plugged into a computer to function and as well as it's own companion desktop app (which offers coin control), also works with all popular desktop wallets.   
 
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/bixbox02.png" class=responsive width="300" height="200" maxheight="150">
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/bixbox02.png" class=responsive width="300" height="150" maxheight="150">
 
 ### Noteable Features
-* 
-* 
-* 
+* Companion desktop [app](https://shiftcrypto.ch/download/) that connects to your node
+* Very simple setup process
+* Automatic SD card backups
 
 ### Noteable Limitations
-* 
-*
-
-### Available on
-* 
-* 
-* 
+* Plug in via USB only
+* SD card backup not encrypted
 
 ### Other resources
 * [Codebase](https://github.com/digitalbitbox)
@@ -48,7 +45,7 @@ Desktop wallets offer more usability and often, a greater feature set when compa
 
 [Cobo Vault](https://cobo.com/hardware-wallet) 
 
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/bf9c0f5c221b19710b0087681e04edbe_1800x1800.png" class=responsive width="300" height="300" maxheight="300">
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/Cobo%20Vault.png" class=responsive width="250" height="400" maxheight="300">
 
 ### Noteable Features
 * 
@@ -66,7 +63,7 @@ Desktop wallets offer more usability and often, a greater feature set when compa
 
 ### Other resources
 * [Codebase](https://github.com/CoboVault)
-* [Documentation](https://support.cobo.com/hc/en-us?_ga=2.12272180.1269757555.1604699964-1206828469.1601048761)
+* [Documentation](https://support.cobo.com/hc/en-us/articles/360045490014-Getting-started-in-5-steps)
 * [Telegram](https://t.me/CoboVault)
 * [Video](https://youtu.be/JnRjvZKulrA)
 
