@@ -81,7 +81,7 @@ Desktop wallets offer more usability and often, a greater feature set when compa
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/Electrum%20Desktop.png" class=responsive width="600" height="400" maxheight="500">
 
 ### Notable Features
-* Own Node connection (not by default)
+* Own node connection (not by default)
 * Coin control + labelling
 * Lightning
 * Extensive hardware wallet support
