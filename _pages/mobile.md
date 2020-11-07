@@ -99,7 +99,7 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 
 ## Fully Noded
 
-[Fully Noded](https://fullynoded.app/) is a feature rich iOS Bitcoin and Lightning wallet that connects to your own node by easily by scanning a QR code. Fully Noded also allows you to interact with your node by running RPC commands so that you can do things like verify the total supply of Bitcoin. Fully Noded also has a desktop implementation for Mac users.
+[Fully Noded](https://fullynoded.app/) is a feature rich iOS Bitcoin and Lightning wallet that connects to your own node by easily by scanning a QR code. Fully Noded also allows you to interact with your node by running RPC commands so that you can do things like verify the total supply of Bitcoin. Users can import wallet files from Electrum, Specter and Sparrow and Fully Noded also has a desktop implementation for Mac users.
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/IMG_1051.PNG" class=responsive width="275" height="450" maxheight="450">
 
