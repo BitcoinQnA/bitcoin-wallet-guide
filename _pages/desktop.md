@@ -222,7 +222,7 @@ Desktop wallets offer more usability and often, a greater feature set when compa
 
 ### Notable Features
 * Connect to own node or run internal
-* PSBT and multi-sig
+* PSBT
 * Coin control and labelling
 * Runs over Tor
 
