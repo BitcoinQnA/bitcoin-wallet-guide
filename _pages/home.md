@@ -57,6 +57,7 @@ Is your project missing? Please create an [issue](https://github.com/BitcoinQnA/
 -  **Desktop Wallets** - Wallets that run on your computer
     - [Bitcoin Core](https://bitcoin.org/en/bitcoin-core/features/)
     - [Blockstream Green](https://blockstream.com/green/)
+    - [Blue Wallet](https://bluewallet.io/)
     - [Electrum](https://electrum.org)
     - [Fully Noded](https://fullynoded.app/)
     - [Lily Wallet](https://lily.kevinmulcrone.com/)
