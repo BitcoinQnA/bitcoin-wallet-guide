@@ -90,7 +90,7 @@ Desktop wallets offer more usability and often, a greater feature set when compa
 ### Notable Limitations
 * No coin control
 * No Tor
-* No Windows or Linux
+* Only supports hardware wallets via PSBT
 
 ### Available on
 * Mac OS
