@@ -10,6 +10,7 @@ Desktop wallets offer more usability and often, a greater feature set when compa
 
 1.  [Bitcoin Core](#bitcoin-core)
 2.  [Blockstream Green](#blockstream-green)
+2.  [Blue Wallet](#blue-wallet)
 3.  [Electrum](#electrum)
 4.  [Fully Noded](#fully-noded)
 5.  [Lily Wallet](#lily-wallet)
@@ -71,6 +72,32 @@ Desktop wallets offer more usability and often, a greater feature set when compa
 * [Documentation](https://help.blockstream.com/hc/en-us/categories/900000056183-Blockstream-Green)
 * [Telegram](https://t.me/blockstream_green)
 * [Video](https://youtu.be/uO3Zi9D5b0Y)
+
+***
+
+[Blue Wallet](https://bluewallet.io/) desktop is essentially a carbon copy of its mobile version. Lightning is custodial by default but allows users to connect to their own instance of [LND Hub](https://lndhub.io/about). Blue wallet and serves as a great option to use Bitcoin daily and simultaneously act as 'watch only' wallet for your cold storage devices. Connection to a users own node is done via an Electrum server. Full list of features [here](https://bluewallet.io/features/).
+
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/blue%20desktop.png" class=responsive width="600" height="400" maxheight="400">
+
+### Notable Features
+* Connect to own node
+* PSBT and multi-sig (beta testing)
+* Create multiple accounts
+* Buy bitcoin within the app via Hodl Hodl
+
+### Notable Limitations
+* No coin control
+* No Tor
+* No Windows or Linux
+
+### Available on
+* Mac OS
+
+### Other resources
+* [Codebase](https://github.com/bluewallet/bluewallet)
+* [Documentation](http://help.bluewallet.io/en/)
+* [Telegram](https://t.me/bluewallet)
+* [Video](https://youtu.be/imMX7i4qpmg)
 
 ***
 
