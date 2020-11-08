@@ -75,6 +75,8 @@ Desktop wallets offer more usability and often, a greater feature set when compa
 
 ***
 
+## Blue Wallet
+
 [Blue Wallet](https://bluewallet.io/) desktop is essentially a carbon copy of its mobile version. Lightning is custodial by default but allows users to connect to their own instance of [LND Hub](https://lndhub.io/about). Blue wallet and serves as a great option to use Bitcoin daily and simultaneously act as 'watch only' wallet for your cold storage devices. Connection to a users own node is done via an Electrum server. Full list of features [here](https://bluewallet.io/features/).
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/blue%20desktop.png" class=responsive width="600" height="400" maxheight="400">
