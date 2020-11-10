@@ -49,7 +49,7 @@ Desktop wallets can sometimes offer more usability and often, a greater feature 
 
 ## Blockstream Green
 
-[Blockstream Green](https://www.blockstream.com/green/) is one of the more basic desktop wallets. Green is cross platform, enabling you to have the same wallet on your mobile and computer simultaneously. Sending a transaction is done through a 2-of-2 [multi-sig setup](https://help.blockstream.com/hc/en-us/articles/900001388366-What-does-Blockstream-Green-s-multisig-protect-from-) but own node connection is not available.
+[Blockstream Green](https://www.blockstream.com/green/) is one of the more basic desktop wallets. Green is cross platform, enabling you to have the same wallet on your phone and computer simultaneously. Sending a transaction is done through a 2-of-2 [multi-sig setup](https://help.blockstream.com/hc/en-us/articles/900001388366-What-does-Blockstream-Green-s-multisig-protect-from-) but own node connection is not available.
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/Green%20Desktop.png" class=responsive width="600" height="400" maxheight="500">
 
@@ -77,7 +77,7 @@ Desktop wallets can sometimes offer more usability and often, a greater feature 
 
 ## Blue Wallet
 
-[Blue Wallet](https://bluewallet.io/) desktop is essentially a carbon copy of its mobile version. Lightning is custodial by default but allows users to connect to their own instance of [LND Hub](https://lndhub.io/about). Blue wallet and serves as a great option to use Bitcoin daily and simultaneously act as 'watch only' wallet for your cold storage devices. Connection to a users own node is done via an Electrum server. Full list of features [here](https://bluewallet.io/features/).
+[Blue Wallet](https://bluewallet.io/) desktop is essentially a carbon copy of its mobile version. Lightning is custodial by default but allows users to connect to their own instance of [LND Hub](https://lndhub.io/about). Blue wallet and serves as a good option to use for daily transactions and simultaneously act as ‘watch only’ wallet for your cold storage devices.  Connection to a users own node is done via an Electrum server. Full list of features [here](https://bluewallet.io/features/).
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/blue%20desktop.png" class=responsive width="600" height="400" maxheight="400">
 
@@ -85,10 +85,10 @@ Desktop wallets can sometimes offer more usability and often, a greater feature 
 * Connect to own node
 * PSBT and multi-sig (beta testing)
 * Create multiple accounts
-* Buy bitcoin within the app via Hodl Hodl
+* Buy bitcoin within the app via [Hodl Hodl](https://hodlhodl.com/)
 
 ### Notable Limitations
-* No coin control
+* No coin control (*in testing*)
 * No Tor
 * Only supports hardware wallets via PSBT
 
@@ -145,7 +145,7 @@ Desktop wallets can sometimes offer more usability and often, a greater feature 
 
 ### Notable Limitations
 * C Lightning implementation not common amongst average node runners
-* No windows or Linux option
+* No Windows or Linux option
 * Only supports Coldcard hardware wallet 
 
 ### Available on
@@ -197,7 +197,7 @@ Desktop wallets can sometimes offer more usability and often, a greater feature 
 * Connect to own node (mandatory)
 * PSBT and multi-sig
 * Coin control
-* Runs over Tor
+* Can run over Tor
 
 ### Notable Limitations
 * Tor connection not easy for beginners
@@ -217,7 +217,7 @@ Desktop wallets can sometimes offer more usability and often, a greater feature 
 
 ## Sparrow Wallet
 
-[Sparrow Wallet](https://www.sparrowwallet.com/) is another feature dense desktop wallet. Sparrow is focused on privacy and also ensures the user can focus on the finer details. Sparrow offers extremely detailed transaction previews which can also double up as a personal blockchain explorer. Connection to your own node is mandatory and is done via an Electrum Server.  
+[Sparrow Wallet](https://www.sparrowwallet.com/) is another densely packed desktop wallet. Sparrow is focused on privacy and also ensures the user can focus on the fine details. Sparrow offers extremely detailed transaction previews which can also double up as a personal blockchain explorer. Connection to your own node is mandatory and is done via an Electrum Server.  
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/control-your-sends.png" class=responsive width="630" height="400" maxheight="450">
 
@@ -225,7 +225,7 @@ Desktop wallets can sometimes offer more usability and often, a greater feature 
 * Connect to own node (mandatory)
 * PSBT and multi-sig
 * Coin control
-* Runs over Tor
+* Can run over Tor
 
 ### Notable Limitations
 * Node/Electrum Server setup may be a big hurdle for newcomers
@@ -245,7 +245,7 @@ Desktop wallets can sometimes offer more usability and often, a greater feature 
 
 ## Wasabi Wallet
 
-[Wasabi](https://wasabiwallet.io/) is privacy focused and comes packaged with Tor, coin control, labelling and coinjoin. Wasabi offers support for all major hardware wallets and can run an internal node or connect to an external one a user already has setup.     
+[Wasabi](https://wasabiwallet.io/) is privacy focused and comes packaged with Tor, coin control, labelling and coinjoin. Wasabi offers support for all major hardware wallets and can run an internal node or connect to an external instance a user already has setup.     
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/Send.png" class=responsive width="630" height="400" maxheight="450">
 
@@ -256,7 +256,7 @@ Desktop wallets can sometimes offer more usability and often, a greater feature 
 * Runs over Tor
 
 ### Notable Limitations
-* Postmix spending not well managed
+* Postmix spend tools lacking
 * Coinjoin implementation suffers from address reuse
 
 ### Available on
