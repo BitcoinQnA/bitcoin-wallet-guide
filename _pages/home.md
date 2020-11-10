@@ -17,7 +17,7 @@ For feature consideration in this guide, a wallet must meet these base criteria.
   1.  Be non custodial
   2.  Be open source
   3.  Be actively maintained
-  4.  Be Bitcoin only or offer Bitcoin only firmware (Hardware wallets)
+  4.  Be Bitcoin only or offer Bitcoin only firmware (*Hardware wallets*)
   
 ***
 
@@ -25,14 +25,14 @@ For feature consideration in this guide, a wallet must meet these base criteria.
 
 When choosing which type of wallet you want to use, there are a few things you should consider. Here are some questions to answer before making an informed decision. You will find your the answer to almost all of these somewhere on this site.
 
-  1. Can you connect the wallet to your own node?
+  1. Can you connect the wallet to your own [node](https://node.guide)?
   2. Is the wallet available on your chosen platform?
   3. How easy is the wallet to use?
   4. Does the wallet run over Tor?
-  5. Does the wallet support PSBT?
-  6. Do you require access to the Lightning network?
-  7. Does the wallet offer coin control?
-  8. Does the wallet support coinjoin?
+  5. Does the wallet support [PSBT](https://en.bitcoin.it/wiki/BIP_0174)?
+  6. Do you require access to the [Lightning network](https://www.bitcoinqna.com/lightning)?
+  7. Does the wallet offer [coin control](https://bitcoinprivacy.guide/segregate.html)?
+  8. Does the wallet support [coinjoin](https://www.bitcoinqna.com/coinjoin)?
   
 Regardless of the type of wallet(s) you use, always ensure you have a physical [backup](https://jlopp.github.io/metal-bitcoin-storage-reviews/). 
 
