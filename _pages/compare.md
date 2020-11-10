@@ -29,11 +29,11 @@ This page contains a key feature comparison for each type of wallet detailed on 
 | [Bitcoin Core](https://bitcoinwallet.guide/desktop/#bitcoin-core)          |   Y                  |  Y           |  Y  |   Y     |  Y    |    N       |  Y *        |
 | [Blockstream Green](https://bitcoinwallet.guide/desktop/#blockstream-green)|   N                  |  N           |  Y  |   Y     |  Y    |    N       |  N          |
 | [Blue Wallet](https://bitcoinwallet.guide/desktop/#blue-wallet)            |    Y                 |  N           |  Y  |    N    |   N   |    Y       |  Y *        |
-| [Electrum](https://bitcoinwallet.guide/desktop/#electrum)                  |    Y                 |    Y         |  N  |   Y     |     Y |    Y       |  Y          |
+| [Electrum](https://bitcoinwallet.guide/desktop/#electrum)                  |    Y                 |    Y         |  Y  |   Y     |     Y |    Y       |  Y          |
 | [Fully Noded](https://bitcoinwallet.guide/desktop/#fully-noded)            |     Y                |     Y        |  Y  |    N    |    N  |     Y      |  Y *        |
-| [Lily Wallet](https://bitcoinwallet.guide/desktop/#lily-wallet)            |      N               |      N       |  Y  |     Y   |     N |     N      |  Y          |
+| [Lily Wallet](https://bitcoinwallet.guide/desktop/#lily-wallet)            |      N               |      N       |  Y  |     Y   |     Y |     N      |  Y          |
 | [Specter Desktop](https://bitcoinwallet.guide/desktop/#specter-desktop)    |       Y              |       Y      |   Y |    Y    | Y     |      N     |  Y          |
-| [Sparrow Wallet](https://bitcoinwallet.guide/desktop/#sparrow-wallet)      |        Y             |        Y     |   Y |     Y   | Y     |     Y      |  Y          |
+| [Sparrow Wallet](https://bitcoinwallet.guide/desktop/#sparrow-wallet)      |        Y             |        Y     |   Y |     Y   | Y     |     N      |  Y          |
 | [Wasabi Wallet](https://bitcoinwallet.guide/desktop/#wasabi-wallet)        |        Y             |        Y     |   Y |     Y   | Y     |     Y      |  Y          |
 
 * *Bitcoin Core hardware wallet support is command line only* 
