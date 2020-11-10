@@ -59,7 +59,11 @@ Some intro text
 | [Zap](https://bitcoinwallet.guide/lightning/#zap)         |   Y                  |  Y                    |  Y  | Y       | Y   | N           | N      |
 | [Zeus](https://bitcoinwallet.guide/lightning/#zeus)       |   Y                  |  Y                    |  Y  | Y       | Y   | Y           | Y      |
 
+<br/>
 
+ <a href="#top">Back to top</a>
+
+Back to [home](https://bitcoinwallet.guide)
 
 ***
  
