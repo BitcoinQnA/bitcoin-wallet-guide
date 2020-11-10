@@ -4,7 +4,7 @@ title: Mobile Wallets
 permalink: /mobile/
 ---
 
-Mobile wallets provide the ultimate in convenience when interacting with Bitcoin. The main benefit mobile wallets bring is they're on a device we generally have with us 24/7 which makes transacting anytime, any place, easy. This 24/7 convenience factor comes with the trade-off that it may not be suitable for storing a large proportion of your wealth on. However, many users do store larger amounts in a mobile wallet on a dedicated device kept somewhere secure.    
+Mobile wallets provide the ultimate in convenience when interacting with Bitcoin. The main benefit mobile wallets bring is that they're on a device we generally have with us 24/7, which makes transacting anytime, any place, easy. This 24/7 convenience factor comes with the trade-off that it may not be a suitable solution for storing a large proportion of your wealth on. However, many users do store larger amounts in a mobile wallet on a dedicated device kept somewhere secure.    
 
 ### Table of Contents
 
@@ -21,7 +21,7 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 
 ## Blockstream Green
 
-[Blockstream Green](https://www.blockstream.com/green/) provides a simple wallet setup and user interface. Green supports multiple devices, enabling you to have the same wallet on your mobile and computer simultaneously. Sending a transaction is done through a 2-of-2 [multi-sig setup](https://help.blockstream.com/hc/en-us/articles/900001388366-What-does-Blockstream-Green-s-multisig-protect-from-) and connection to your own node is done via [SPV](https://en.bitcoinwiki.org/wiki/Simplified_Payment_Verification).
+[Blockstream Green](https://www.blockstream.com/green/) provides a simple wallet setup and user interface. Green supports multiple devices, enabling you to have the same wallet on your phone and computer simultaneously. Sending a transaction is done through a 2-of-2 [multi-sig setup](https://help.blockstream.com/hc/en-us/articles/900001388366-What-does-Blockstream-Green-s-multisig-protect-from-) and connection to your own node is done via [SPV](https://en.bitcoinwiki.org/wiki/Simplified_Payment_Verification).
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/imageedit_2_8794344245.png" class=responsive width="220" height="450" maxheight="500">
 
@@ -48,7 +48,7 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 
 ## Blue Wallet
 
-[Blue Wallet](https://bluewallet.io/) is feature packed but still manages to provide quick and easy access to both Bitcoin and Lightning. Lightning is custodial by default but allows users to connect to their own instance of [LND Hub](https://lndhub.io/about). Blue wallet and serves as a great option to use Bitcoin daily and simultaneously act as 'watch only' wallet for your cold storage devices. Connection to a users own node is done via an Electrum server. Full list of features [here](https://bluewallet.io/features/).
+[Blue Wallet](https://bluewallet.io/) is feature packed but still manages to provide quick and easy access to both Bitcoin and Lightning. Lightning is custodial by default but allows users to connect to their own instance of [LND Hub](https://lndhub.io/about). Blue wallet and serves as a great option to use for daily transactions and simultaneously act as 'watch only' wallet for your cold storage devices. Connection to a users own node is done via an Electrum server. Full list of features [here](https://bluewallet.io/features/).
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/security-app.png" class=responsive width="320" height="500" maxheight="300">
 
@@ -59,7 +59,7 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 * Buy bitcoin within the app via Hodl Hodl
 
 ### Notable Limitations
-* No coin control
+* No coin control (*in testing*)
 * No Tor
 
 ### Available on
@@ -75,7 +75,7 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 
 ## Eclair
 
-[Eclair](https://play.google.com/store/apps/details?id=fr.acinq.eclair.wallet.mainnet2) is an Android only mobile app that allows users to seamlessly swap between Bitcoin and Lightning. Eclair allows connection to a user's own node via an Electrum server for on-chain privacy and runs a stripped down Lightning node on the phone and requires manual channel management. 
+[Eclair](https://play.google.com/store/apps/details?id=fr.acinq.eclair.wallet.mainnet2) is an Android only mobile app that allows users to seamlessly swap between Bitcoin and Lightning. Eclair allows connection to a user's own node via an Electrum server for improved on-chain privacy and runs a stripped down Lightning node on the phone that requires manual channel management. 
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/unnamed.png" class=responsive width="220" height="420" maxheight="420">
 
@@ -101,7 +101,7 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 
 ## Electrum
 
-[Elecrum Mobile](https://electrum.org/#home) is better known for it's widely used desktop wallet, however an Android offering is also available. It supports both Bitcoin and Lightning and has the ability to create multi-sig and watch only wallets. Connection to your own node is done via an Electrum server.
+[Elecrum Mobile](https://electrum.org/#home) is better known for it's widely used desktop wallet, however an Android offering is also available. It supports both Bitcoin and Lightning and has the ability to create multi-sig and watch only wallets. Connection to own node is done via an Electrum server.
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/Electrum%20mobile.png" class=responsive width="275" height="300" maxheight="300">
 
@@ -126,7 +126,7 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 
 ## Fully Noded
 
-[Fully Noded](https://fullynoded.app/) is a feature rich iOS Bitcoin and Lightning wallet that connects to your own node by easily by scanning a QR code. Fully Noded also allows you to interact with your node by running RPC commands so that you can do things like verify the total supply of Bitcoin. Users can import wallet files from Electrum, Specter and Sparrow and Fully Noded also has a desktop implementation for Mac users.
+[Fully Noded](https://fullynoded.app/) is a feature rich iOS Bitcoin and Lightning wallet that connects to your own node by easily by scanning a QR code. Fully Noded also allows you to interact with your node by running RPC commands so that you can do things like [verify](https://verify.supply) the total supply of Bitcoin at the click of a button. Users can import wallet files from Electrum, Specter and Sparrow and Fully Noded also has a desktop implementation for Mac users.
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/IMG_1051.PNG" class=responsive width="275" height="450" maxheight="450">
 
@@ -180,7 +180,7 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 
 ## Muun
 
-[Muun Wallet](https://muun.com/) is a simple Bitcoin wallet that also allows for payment of Lightning invoices via [submarine swaps](https://blog.muun.com/a-closer-look-at-submarine-swaps-in-the-lightning-network/). Muun uses a 2-of-2 multi-sig setup for signing transactions.
+[Muun Wallet](https://muun.com/) is a simple Bitcoin wallet that also allows for payment of Lightning invoices via [submarine swaps](https://blog.muun.com/a-closer-look-at-submarine-swaps-in-the-lightning-network/). Muun uses a 2-of-2 multi-sig setup for signing transactions and offers Trezor hardware wallet support.
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/phone-mockup.png" class=responsive width="350" height="420" maxheight="300">
 
@@ -205,7 +205,7 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 
 ## Samourai Wallet
 
-[Samourai Wallet](https://samouraiwallet.com/) is a privacy focused Android wallet that offers inbuilt Coinjoin and complex spend algorithms to preserve privacy. Samourai provides simple node connection via a QR scan and also supports [Opendime](https://opendime.com/) and [BIP47](https://support.samourai.io/article/68-what-are-paynyms) 'Paynyms'. Full list of features [here](https://code.samourai.io/wallet/samourai-wallet-android/-/blob/develop/Samourai-Wallet-features.md).
+[Samourai Wallet](https://samouraiwallet.com/) is a privacy focused Android wallet that offers inbuilt coinjoin and complex spend algorithms to preserve privacy. Samourai provides simple node connection via a QR scan and also supports [Opendime](https://opendime.com/) and [BIP47](https://support.samourai.io/article/68-what-are-paynyms) 'Paynyms'. Full list of features [here](https://code.samourai.io/wallet/samourai-wallet-android/-/blob/develop/Samourai-Wallet-features.md).
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/hero_shot_nodev.png" class=responsive width="300" height="500" maxheight="300">
 
