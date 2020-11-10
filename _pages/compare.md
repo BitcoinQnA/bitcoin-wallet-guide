@@ -52,12 +52,12 @@ Some intro text
 
 ## Lightning Native
 
-| Wallet                                                    | Connect to own node  | Send/Receive on chain | iOS | Android |
-|-----------------------------------------------------------|----------------------|-----------------------|-----|---------|
-| [Breez](https://bitcoinwallet.guide/lightning/#breez)     |   Y                  |  Y (via swaps)        |  Y  | Y       |
-| [Phoenix](https://bitcoinwallet.guide/lightning/#phoenix) |   Y                  |  Y (via swaps)        |  N  | Y       |
-| [Zap](https://bitcoinwallet.guide/lightning/#zap)         |   Y                  |  Y                    |  Y  | Y       |  
-| [Zeus](https://bitcoinwallet.guide/lightning/#zeus)       |   Y                  |  Y                    |  Y  | Y       |  
+| Wallet                                                    | Connect to own node  | Send/Receive on chain | iOS | Android | LND | C Lightning | Eclair |
+|-----------------------------------------------------------|----------------------|-----------------------|-----|---------|-----|-------------|--------|
+| [Breez](https://bitcoinwallet.guide/lightning/#breez)     |   Y                  |  Y (via swaps)        |  Y  | Y       | Y   | N           | N      |
+| [Phoenix](https://bitcoinwallet.guide/lightning/#phoenix) |   Y                  |  Y (via swaps)        |  N  | Y       | N   | N           | Y      |
+| [Zap](https://bitcoinwallet.guide/lightning/#zap)         |   Y                  |  Y                    |  Y  | Y       | Y   | N           | N      |
+| [Zeus](https://bitcoinwallet.guide/lightning/#zeus)       |   Y                  |  Y                    |  Y  | Y       | Y   | Y           | Y      |
 
 
 
