@@ -4,7 +4,7 @@ title: Desktop Wallets
 permalink: /desktop/
 ---
 
-Desktop wallets offer more usability and often, a greater feature set when compared with their mobile counterparts. Desktop wallets offer hardware wallet support, and more recently have shifted more towards easy multi-sig setup and usage. Desktop wallets make interacting with bitcoin held in cold storage on a hardware wallet, much easier but they are not well suited to daily use. Computers are inherently more at risk of being exposed to malicious software compared to phones, so always double check the download source before installing any desktop software and if you have the knowledge, verify the software signature.
+Desktop wallets can sometimes offer more usability and often, a greater feature set when compared with their mobile counterparts. Most desktop wallets offer hardware wallet support, and more recently have shifted more towards easy multi-sig setup and usage. Desktop wallets make interacting with bitcoin held in cold storage on a hardware wallet much more simple, but they are not as well suited to more frequent daily use. Computers are inherently more at risk of being exposed to malicious software compared to phones, so always double check the download source before installing any desktop software and if you have the knowledge, verify the software signature.
 
 ### Table of Contents
 
