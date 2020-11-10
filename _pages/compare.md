@@ -52,12 +52,12 @@ Some intro text
 
 ## Lightning Native
 
-| Wallet                                                    | Connect to own node  | Send/Receive on chain | iOS | Android | 
+| Wallet                                                    | Connect to own node  | Send/Receive on chain | iOS | Android |
 |-----------------------------------------------------------|----------------------|-----------------------|-----|---------|
-| [Breez](https://bitcoinwallet.guide/lightning/#breez)     |   Y                  |  Y (via swaps)        |  Y  | $99     |
-| [Phoenix](https://bitcoinwallet.guide/lightning/#phoenix) |   N                  |  Y (via swaps)        |  N  | $99, $  | 
-| [Zap](https://bitcoinwallet.guide/lightning/#zap)         |   Y                  |  Y                    |  Y  | $120    |  
-| [Zeus](https://bitcoinwallet.guide/lightning/#zeus)       |   N                  |  Y                    |  Y  | $100-$2 |  
+| [Breez](https://bitcoinwallet.guide/lightning/#breez)     |   Y                  |  Y (via swaps)        |  Y  | Y       |
+| [Phoenix](https://bitcoinwallet.guide/lightning/#phoenix) |   Y                  |  Y (via swaps)        |  N  | Y       |
+| [Zap](https://bitcoinwallet.guide/lightning/#zap)         |   Y                  |  Y                    |  Y  | Y       |  
+| [Zeus](https://bitcoinwallet.guide/lightning/#zeus)       |   Y                  |  Y                    |  Y  | Y       |  
 
 
 
