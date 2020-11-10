@@ -79,7 +79,7 @@ Lightning native wallets aren't that different from a 'normal' bitcoin wallet, i
 
 ### Notable Limitations
 * No mobile wallet creation on main releases
-* Manual channel management
+* Node requirement a hurdle for newcomers
 
 ### Available on
 * iOS + Android + Desktop
