@@ -43,7 +43,7 @@ Lightning native wallets aren't that different from a 'normal' bitcoin wallet, i
 
 ## Phoenix
 
-[Phoenix](https://phoenix.acinq.co/) is another great starter wallet for users wanting to onboard with Lightning. Much like Breez, Phoenix seamlessly supports on-chain send/receive transactions via submarine swaps and also opens channels on demand for a small fee. These swaps result in a certain level of trust in the entity running the swap service (Acinq) and users should also consider the privacy tradeoffs that come with this setup too.
+[Phoenix](https://phoenix.acinq.co/) is another great starter wallet for users wanting to onboard with Lightning. Much like Breez, Phoenix seamlessly supports on-chain send/receive transactions via submarine swaps and also opens channels on demand for a small fee. These swaps result in a certain level of [trust](https://phoenix.acinq.co/faq#is-phoenix-trustless) in the entity running the swap service (Acinq) and users should also consider the privacy [tradeoffs](https://phoenix.acinq.co/faq#how-private-are-my-payments-on-phoenix) that come with this setup too.
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/Phoenix.png" class=responsive width="220" height="450" maxheight="500">
 
