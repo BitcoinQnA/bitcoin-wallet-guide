@@ -74,7 +74,7 @@ Lightning native wallets aren't that different from a 'normal' bitcoin wallet, i
 
 ### Notable Features
 * Connect to own node
-* Built in node (desktop)
+* Android supports Tor via Orbot
 * Remotely manage channels from your phone
 
 ### Notable Limitations
