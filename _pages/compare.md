@@ -45,19 +45,19 @@ Some intro text
 | Wallet                                                             | USB  | PSBT | Backup                  | Price                     | 
 |--------------------------------------------------------------------|------|------|-------------------------|---------------------------|
 | [BitBox02](https://bitcoinwallet.guide/hardware/#bitbox02)         |   Y  |  N   |  SD card (unencrypted)  | $99                       |
-| [Cobo Vault](https://bitcoinwallet.guide/hardware/#cobo-vault)     |   N  |  N   |  Shamir                 | $99, $149 or $479         | 
+| [Cobo Vault](https://bitcoinwallet.guide/hardware/#cobo-vault)     |   N  |  Y   |  Shamir                 | $99, $149 or $479         | 
 | [Coldcard](https://bitcoinwallet.guide/hardware/#coldcard)         |   Y  |  Y   |  Encrypted to SD card   | $120                      |  
 | [Specter DIY](https://bitcoinwallet.guide/hardware/#specter-diy)   |   N  |  Y   |  Seed only              | $100-$200 depending on HW |  
 | [Trezor](https://bitcoinwallet.guide/hardware/#trezor)             |   Y  |  N   |  Shamir                 | $70 or $210               |
 
 ## Lightning Native
 
-| Wallet                                                    | Connect to own node  | Send/Receive on chain | iOS | Android | LND | C Lightning | Eclair |
-|-----------------------------------------------------------|----------------------|-----------------------|-----|---------|-----|-------------|--------|
-| [Breez](https://bitcoinwallet.guide/lightning/#breez)     |   Y                  |  Y (via swaps)        |  Y  | Y       | Y   | N           | N      |
-| [Phoenix](https://bitcoinwallet.guide/lightning/#phoenix) |   Y                  |  Y (via swaps)        |  N  | Y       | N   | N           | Y      |
-| [Zap](https://bitcoinwallet.guide/lightning/#zap)         |   Y                  |  Y                    |  Y  | Y       | Y   | N           | N      |
-| [Zeus](https://bitcoinwallet.guide/lightning/#zeus)       |   Y                  |  Y                    |  Y  | Y       | Y   | Y           | Y      |
+| Wallet                                                    | Connect to own node  | Send/Receive on chain | iOS | Android | LND | C Lightning   | Eclair |
+|-----------------------------------------------------------|----------------------|-----------------------|-----|---------|-----|---------------|--------|
+| [Breez](https://bitcoinwallet.guide/lightning/#breez)     |   Y                  |  Y (via swaps)        |  Y  | Y       | Y   | N             | N      |
+| [Phoenix](https://bitcoinwallet.guide/lightning/#phoenix) |   Y                  |  Y (via swaps)        |  N  | Y       | N   | N             | Y      |
+| [Zap](https://bitcoinwallet.guide/lightning/#zap)         |   Y                  |  Y                    |  Y  | Y       | Y   | N             | N      |
+| [Zeus](https://bitcoinwallet.guide/lightning/#zeus)       |   Y                  |  Y                    |  Y  | Y       | Y   | Y             | Y      |
 
 <br/>
 
