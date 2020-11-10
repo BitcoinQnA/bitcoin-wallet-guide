@@ -12,7 +12,7 @@ Some intro text
 |----------------------------------------------------------------------------|----------------------|--------------|-----|---------|-----------|---------------|-----|
 | [Blockstream Green](https://bitcoinwallet.guide/mobile/#blockstream-green) |   Y                  |  N           |  Y  |   Y     |      N    |    N          |  Y  |
 | [Blue Wallet](https://bitcoinwallet.guide/mobile/#blue-wallet)             |    Y                 |  N           |  Y  |    Y    |   Y       |    Y          |  N  |
-| [Eclair](https://bitcoinwallet.guide/mobile/#eclair)                       |   Y                  |   N          |  N  |     Y   |    Y      |    N          |  N  |
+| [Eclair](https://bitcoinwallet.guide/mobile/#eclair)                       |   Y                  |   N          |  N  |     Y   |    Y      |    N          |  Y  |
 | [Electrum](https://bitcoinwallet.guide/mobile/#electrum)                   |    Y                 |    Y         |  N  |   Y     |     Y     |     Y         |  Y  |
 | [Fully Noded](https://bitcoinwallet.guide/mobile/#fully-noded)             |     Y                |     Y        |  Y  |    N    |    Y      |     Y         |  Y  |
 | [Hexa](https://bitcoinwallet.guide/mobile/#hexa)                           |      N               |      N       |  Y  |     Y   |     N     |     Y         |  N  |
