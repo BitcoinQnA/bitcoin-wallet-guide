@@ -42,9 +42,9 @@ Some intro text
 
 ## Hardware
 
-| Wallet                                                             | USB  | PSBT |  | Windows | Linux | Lightning  | HWW Support |
-|--------------------------------------------------------------------|------|------|-----|---------|-------|------------|-------------|
-| [BitBox02](https://bitcoinwallet.guide/hardware/#bitbox02)         |   Y  |  N   |  Y  |   Y     |  Y    |    N       |  Y *        |
+| Wallet                                                             | USB  | PSBT | Backup    | 
+|--------------------------------------------------------------------|------|------|-----------|---------|-------|------------|-------------|
+| [BitBox02](https://bitcoinwallet.guide/hardware/#bitbox02)         |   Y  |  N   |  Automatic to SD card (unencrypted)  |   Y     |  Y    |    N       |  Y *        |
 | [Cobo Vault](https://bitcoinwallet.guide/hardware/#cobo-vault)     |   N  |  N   |  Y  |   Y     |  Y    |    N       |  N          |
 | [Coldcard](https://bitcoinwallet.guide/hardware/#coldcard)         |   Y  |  Y   |  Y  |    N    |   N   |    Y       |  Y *        |
 | [Specter DIY](https://bitcoinwallet.guide/hardware/#specter-diy)   |   N  |  Y   |  N  |   Y     |     Y |    Y       |  Y          |
