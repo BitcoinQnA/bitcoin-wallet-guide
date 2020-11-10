@@ -6,7 +6,7 @@ permalink: /compare/
 
 Some intro text
 
-## Mobile
+## Mobile Wallets
 
 | Wallet                                                                     | Connect to own node  | Coin control | iOS | Android | Lightning | Native Segwit | Tor |
 |----------------------------------------------------------------------------|----------------------|--------------|-----|---------|-----------|---------------|-----|
@@ -22,7 +22,7 @@ Some intro text
 
 * *Muun allows payment of lightning invoices via submarine swaps*
 
-## Desktop
+## Desktop Wallets
 
 | Wallet                                                                     | Connect to own node  | Coin control | Mac | Windows | Linux | Lightning  | HWW Support |
 |----------------------------------------------------------------------------|----------------------|--------------|-----|---------|-------|------------|-------------|
@@ -40,15 +40,25 @@ Some intro text
 * *Blue Wallet hardware wallet support is only supoprted via PSBT* 
 * *Fully noded only supports Coldcard via PSBT*
 
-## Hardware
+## Hardware Wallets
 
-| Wallet                                                             | USB  | PSBT | Backup                  | 
-|--------------------------------------------------------------------|------|------|-------------------------|
-| [BitBox02](https://bitcoinwallet.guide/hardware/#bitbox02)         |   Y  |  N   |  SD card (unencrypted)  | 
-| [Cobo Vault](https://bitcoinwallet.guide/hardware/#cobo-vault)     |   N  |  N   |  Shamir                 | 
-| [Coldcard](https://bitcoinwallet.guide/hardware/#coldcard)         |   Y  |  Y   |  Encrypted to SD card   |   
-| [Specter DIY](https://bitcoinwallet.guide/hardware/#specter-diy)   |   N  |  Y   |  Seed only              |   
-| [Trezor](https://bitcoinwallet.guide/hardware/#trezor)             |   Y  |  N   |  Shamir                 | 
+| Wallet                                                             | USB  | PSBT | Backup                  | Price                     | 
+|--------------------------------------------------------------------|------|------|-------------------------|---------------------------|
+| [BitBox02](https://bitcoinwallet.guide/hardware/#bitbox02)         |   Y  |  N   |  SD card (unencrypted)  | $99                       |
+| [Cobo Vault](https://bitcoinwallet.guide/hardware/#cobo-vault)     |   N  |  N   |  Shamir                 | $99, $149 or $479         | 
+| [Coldcard](https://bitcoinwallet.guide/hardware/#coldcard)         |   Y  |  Y   |  Encrypted to SD card   | $120                      |  
+| [Specter DIY](https://bitcoinwallet.guide/hardware/#specter-diy)   |   N  |  Y   |  Seed only              | $100-$200 depending on HW |  
+| [Trezor](https://bitcoinwallet.guide/hardware/#trezor)             |   Y  |  N   |  Shamir                 | $70 or $210               |
+
+## Lightning Native
+
+| Wallet                                                    | Connect to own node  | Send/Receive on chain | iOS | Android | 
+|-----------------------------------------------------------|----------------------|-----------------------|-----|---------|
+| [Breez](https://bitcoinwallet.guide/lightning/#breez)     |   Y                  |  Y (via swaps)        |  Y  | $99     |
+| [Phoenix](https://bitcoinwallet.guide/lightning/#phoenix) |   N                  |  Y (via swaps)        |  N  | $99, $  | 
+| [Zap](https://bitcoinwallet.guide/lightning/#zap)         |   Y                  |  Y                    |  Y  | $120    |  
+| [Zeus](https://bitcoinwallet.guide/lightning/#zeus)       |   N                  |  Y                    |  Y  | $100-$2 |  
+
 
 
 ***
