@@ -42,13 +42,13 @@ Some intro text
 
 ## Hardware
 
-| Wallet                                                             | USB  | PSBT | Backup    | 
-|--------------------------------------------------------------------|------|------|-----------|---------|-------|------------|-------------|
-| [BitBox02](https://bitcoinwallet.guide/hardware/#bitbox02)         |   Y  |  N   |  Automatic to SD card (unencrypted)  |   Y     |  Y    |    N       |  Y *        |
-| [Cobo Vault](https://bitcoinwallet.guide/hardware/#cobo-vault)     |   N  |  N   |  Y  |   Y     |  Y    |    N       |  N          |
-| [Coldcard](https://bitcoinwallet.guide/hardware/#coldcard)         |   Y  |  Y   |  Y  |    N    |   N   |    Y       |  Y *        |
-| [Specter DIY](https://bitcoinwallet.guide/hardware/#specter-diy)   |   N  |  Y   |  N  |   Y     |     Y |    Y       |  Y          |
-| [Trezor](https://bitcoinwallet.guide/hardware/#trezor)             |   Y  |  N   |  Y  |    N    |    N  |     Y      |  Y *        |
+| Wallet                                                             | USB  | PSBT | Backup                  | 
+|--------------------------------------------------------------------|------|------|-------------------------|
+| [BitBox02](https://bitcoinwallet.guide/hardware/#bitbox02)         |   Y  |  N   |  SD card (unencrypted)  | 
+| [Cobo Vault](https://bitcoinwallet.guide/hardware/#cobo-vault)     |   N  |  N   |  Shamir                 | 
+| [Coldcard](https://bitcoinwallet.guide/hardware/#coldcard)         |   Y  |  Y   |  Encrypted to SD card   |   
+| [Specter DIY](https://bitcoinwallet.guide/hardware/#specter-diy)   |   N  |  Y   |  Seed only              |   
+| [Trezor](https://bitcoinwallet.guide/hardware/#trezor)             |   Y  |  N   |  Shamir                 | 
 
 
 ***
