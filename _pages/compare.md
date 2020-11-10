@@ -40,5 +40,16 @@ Some intro text
 * *Blue Wallet hardware wallet support is only supoprted via PSBT* 
 * *Fully noded only supports Coldcard via PSBT*
 
+## Hardware
+
+| Wallet                                                             | USB  | PSBT |  | Windows | Linux | Lightning  | HWW Support |
+|--------------------------------------------------------------------|------|------|-----|---------|-------|------------|-------------|
+| [BitBox02](https://bitcoinwallet.guide/hardware/#bitbox02)         |   Y  |  N   |  Y  |   Y     |  Y    |    N       |  Y *        |
+| [Cobo Vault](https://bitcoinwallet.guide/hardware/#cobo-vault)     |   N  |  N   |  Y  |   Y     |  Y    |    N       |  N          |
+| [Coldcard](https://bitcoinwallet.guide/hardware/#coldcard)         |   Y  |  Y   |  Y  |    N    |   N   |    Y       |  Y *        |
+| [Specter DIY](https://bitcoinwallet.guide/hardware/#specter-diy)   |   N  |  Y   |  N  |   Y     |     Y |    Y       |  Y          |
+| [Trezor](https://bitcoinwallet.guide/hardware/#trezor)             |   Y  |  N   |  Y  |    N    |    N  |     Y      |  Y *        |
+
+
 ***
  
