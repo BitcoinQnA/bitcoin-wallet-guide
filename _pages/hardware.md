@@ -4,9 +4,9 @@ title: Hardware Wallets
 permalink: /hardware/
 ---
 
-Hardware wallets offers an exponential increase in security when compared with mobile or desktop wallets. They are designed so that your private keys are generated and stored on a dedicated device that is not connected to any potentially malware infected device. However, some of these require plugging into a computer to interact with, which exposes them to more risk than their airgapped counterparts. For the ultimate setup in terms of privacy and security, you should look to use an air gapped device in conjunction with a [desktop wallet](/desktop) that is connected to your own [node](https://node.guide). 
+Hardware wallets offers an increase in security when compared with mobile or desktop wallets. They are designed so that your private keys are generated and stored on a dedicated device that is not directly connected to any potentially malware infected device. However, some of these require plugging into a computer to interact with, which exposes them to more risk than their airgapped counterparts. For the ultimate setup in terms of privacy and security, you should look to use an air gapped device in conjunction with a [mobile](/mobile) or [desktop](/desktop) wallet that is connected to your own [node](https://node.guide). 
 
-This does of course come with additional hurdles that may be difficult to overcome for first timers, which is why there are items in this list that trade-off some of that security and privacy to make the user experience smoother by offering a companion app and USB plug in option. Some options in the list below offer alt coin support as well as a Bitcoin only firmware option, always ensure you opt for the Bitcoin only version to minimise another attack vector risk.
+This type of set-up does come with additional hurdles that may be more difficult to overcome for first timers. This is why there are items in the list below that trade-off some security and privacy to make the user experience smoother by offering a companion app and USB plug in option. Some options in the list offer alt coin support as well as a Bitcoin only firmware option, always ensure you opt for the Bitcoin only version to minimise another attack vector risk.
 
 ### Table of Contents
 
@@ -20,7 +20,7 @@ This does of course come with additional hurdles that may be difficult to overco
 
 ## Bitbox02
 
-[BitBox02](https://shiftcrypto.shop/en/products/bitbox02-bitcoin-only-edition-pre-order-4/#carousel-example-generic) comes with a touch sensitive interface and when combined with the companion desktop app, makes the setup and interaction a breeze for beginners. The BitBox02 has to be plugged into a computer to function and as well as it's own companion desktop app (which offers coin control), also works with all popular desktop wallets. Users should ensure they manually write down their seed words upon setup, this is not enforced by the app.   
+[BitBox02](https://shiftcrypto.shop/en/products/bitbox02-bitcoin-only-edition-pre-order-4/#carousel-example-generic) comes with a touch sensitive interface which,  when combined with the companion desktop app, makes the setup and interaction a breeze for beginners. The BitBox02 has to be plugged into a computer to function and works with its own desktop app (which offers coin control), as well as all popular desktop wallets. Users should ensure they manually write down their seed words upon setup, this is not enforced by the app.   
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/bixbox02.png" class=responsive width="300" height="150" maxheight="150">
 
@@ -43,7 +43,7 @@ This does of course come with additional hurdles that may be difficult to overco
 
 ## Cobo Vault
 
-[Cobo Vault](https://cobo.com/hardware-wallet) offers three distinct options. The [Essential](https://shop.cobo.com/products/cobo-vault-essential), the [Pro](https://shop.cobo.com/products/cobo-vault) and the [Ultimate](https://shop.cobo.com/products/cobo-vault-ultimate). Their core functionality is the same but you can compare the differences [here](https://cobo.com/hardware-wallet/hardware-wallet-comparison). The Cobo Vault uses a true air gap operation, doing all transaction signing via QR codes and all firmware updates via SD card. The device supports all major desktop applications and allows the user to provide additional entropy when generating a seed which can then be saved via [Shamir](https://medium.com/cobo-vault/why-cobo-vault-implemented-shamir-backups-4665ae379396) backups. Users should ensure they install the Bitcoin only [firmware](https://cobo.com/hardware-wallet/downloads).
+[Cobo Vault](https://cobo.com/hardware-wallet) offers three distinct options. The [Essential](https://shop.cobo.com/products/cobo-vault-essential), the [Pro](https://shop.cobo.com/products/cobo-vault) and the [Ultimate](https://shop.cobo.com/products/cobo-vault-ultimate). Their core functionality is the same but you can compare the differences [here](https://cobo.com/hardware-wallet/hardware-wallet-comparison). The Cobo Vault uses a true air gap operation, doing all transaction signing via QR codes and all firmware updates via SD card. The device works with most major desktop applications and allows the user to provide additional entropy when generating a seed which can then be saved via [Shamir](https://medium.com/cobo-vault/why-cobo-vault-implemented-shamir-backups-4665ae379396) backups. Users should ensure they install the Bitcoin only [firmware](https://cobo.com/hardware-wallet/downloads).
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/Cobo%20Vault.png" class=responsive width="250" height="400" maxheight="300">
 
@@ -66,7 +66,7 @@ This does of course come with additional hurdles that may be difficult to overco
 
 ## Coldcard
 
-[Coldcard](https://coldcardwallet.com/) has been the default hardware wallet option for more focused bitcoiner for multiple years, and for good reason. Coldcard offers a true airgapped operation and achieves all transaction signing and firmware updates via the SD card. The Coldcard has a massive feature set that include encrypted SD card backups, paper wallet generation, user added entropy and [BIP85](https://github.com/bitcoin/bips/blob/master/bip-0085.mediawiki) support for deriving multiple wallets from a single seed. Coldcard is compatible with all major desktop wallet integrations.
+[Coldcard](https://coldcardwallet.com/) has been the default hardware wallet option for the more focused bitcoiner for multiple years (for good reason). Coldcard offers a true airgapped operation and achieves all transaction signing and firmware updates via the SD card. The Coldcard has a massive feature set that include encrypted SD card backups, paper wallet generation, user added entropy and [BIP85](https://github.com/bitcoin/bips/blob/master/bip-0085.mediawiki) support for deriving multiple wallets from a single seed. Coldcard is compatible with all major desktop wallet integrations.
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/coldcard-front.png" class=responsive width="210" height="350" maxheight="350">
 
@@ -89,7 +89,7 @@ This does of course come with additional hurdles that may be difficult to overco
 
 ## Specter DIY
 
-[Specter DIY](https://specter.solutions/) is an open-source hardware wallet with large touchscreen, QR-code scanner and a smartcard-reader. As the name suggests, this device is built by the user with off the shelf [parts](https://github.com/cryptoadvance/specter-diy/blob/master/docs/shopping.md) that can be purchased from a number of different manufacturers which almost eliminates supply chain risk. Once assembled, the user then flashes the firmware onto the device and proceeds with device setup. The device is supported by Specter Desktop but is still an early project and is not well suited to someone with limited technical knowledge, proceed with caution.
+[Specter DIY](https://specter.solutions/) is an open-source hardware wallet with large touchscreen, QR-code scanner and a smartcard-reader. As the name suggests, this device is built by the user with off the shelf [parts](https://github.com/cryptoadvance/specter-diy/blob/master/docs/shopping.md) that can be purchased from a number of different manufacturers which minimises supply chain risk. Once assembled, the user then flashes the firmware onto the device and proceeds with device setup. The device is supported by Specter Desktop but is still an early project and is not well suited to someone with limited technical knowledge, proceed with caution.
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/Specter%20DIY.png" class=responsive width="210" height="390" maxheight="390">
 
