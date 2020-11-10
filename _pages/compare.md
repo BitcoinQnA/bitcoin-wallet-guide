@@ -4,7 +4,7 @@ title: Compare
 permalink: /compare/
 ---
 
-Some intro text
+This page contains a key feature comparison for each type of wallet detailed on the site, it is not designed to be an exhaustive list of each wallet's feature set. Best viewed in landscape mode for mobile visitors.  
 
 ## Mobile Wallets
 
