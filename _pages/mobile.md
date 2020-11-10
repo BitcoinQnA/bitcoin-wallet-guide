@@ -92,8 +92,8 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 * Android
 
 ### Other resources
-* [Codebase](https://github.com/ACINQ/eclair)
-* [Documentation](https://github.com/acinq/eclair/wiki)
+* [Codebase](https://github.com/ACINQ/eclair-mobile)
+* [Documentation](https://github.com/ACINQ/eclair-mobile)
 * [Contact](https://twitter.com/acinq_co)
 * [Video](https://youtu.be/wq4lF2s4UtI)
 
