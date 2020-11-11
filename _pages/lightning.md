@@ -51,7 +51,7 @@ Lightning native wallets aren't that different from a 'normal' bitcoin wallet, i
 ### Notable Features
 * Connect to own node
 * Supports passphrase 
-* Lightning enabled
+* Runs a lightweight Lightning node on the phone
 
 ### Notable Limitations
 * No native segwit
