@@ -34,7 +34,7 @@ When choosing which type of wallet you want to use, there are a few things you s
   7. Does the wallet offer [coin control](https://bitcoinprivacy.guide/segregate.html)?
   8. Does the wallet support [coinjoin](https://www.bitcoinqna.com/coinjoin)?
   
-Regardless of the type of wallet(s) you use, always ensure you have a physical [backup](https://jlopp.github.io/metal-bitcoin-storage-reviews/). 
+Regardless of the type of wallet(s) you use, always ensure you have a physical seed [backup](https://jlopp.github.io/metal-bitcoin-storage-reviews/). 
 
 ***
 
