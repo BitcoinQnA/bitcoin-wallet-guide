@@ -97,7 +97,7 @@ Lightning native wallets aren't that different from a 'normal' bitcoin wallet, i
 
 [Zap](https://zaphq.io/) has multiple [implementations](https://zaphq.io/download), all offering slightly different functionality. Both main release mobile offerings currently do not allow wallet creation and only offer remote Lightning node connection. However, the [testflight](https://testflight.apple.com/join/elC3EXAK) version on iOS does offer wallet creation functionality. There is a desktop application available on Windows, Mac OS and Linux that allow for remote node connectivity and wallet creation. All Zap offerings come with a simple user interface and support on and off chain transactions.
 
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/Zap.png" class=responsive width="220" height="450" maxheight="500">
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/Zap.jpg" class=responsive width="220" height="450" maxheight="500">
 
 ### Notable Features
 * Connect to own node
