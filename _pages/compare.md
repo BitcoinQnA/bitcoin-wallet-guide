@@ -12,7 +12,6 @@ This page contains a key feature comparison for each type of wallet detailed on 
 |----------------------------------------------------------------------------|----------------------|--------------|-----|---------|-----------|---------------|-----|
 | [Blockstream Green](https://bitcoinwallet.guide/mobile/#blockstream-green) |   Y                  |  N           |  Y  |   Y     |      N    |    N          |  Y  |
 | [Blue Wallet](https://bitcoinwallet.guide/mobile/#blue-wallet)             |    Y                 |  N           |  Y  |    Y    |   Y       |    Y          |  N  |
-| [Eclair](https://bitcoinwallet.guide/mobile/#eclair)                       |   Y                  |   N          |  N  |     Y   |    Y      |    N          |  Y  |
 | [Electrum](https://bitcoinwallet.guide/mobile/#electrum)                   |    Y                 |    Y         |  N  |   Y     |     Y     |     Y         |  Y  |
 | [Fully Noded](https://bitcoinwallet.guide/mobile/#fully-noded)             |     Y                |     Y        |  Y  |    N    |    Y      |     Y         |  Y  |
 | [Hexa](https://bitcoinwallet.guide/mobile/#hexa)                           |      N               |      N       |  Y  |     Y   |     N     |     Y         |  N  |
@@ -55,6 +54,7 @@ This page contains a key feature comparison for each type of wallet detailed on 
 | Wallet                                                    | Connect to own node  | Send/Receive on chain | iOS | Android | LND | C Lightning   | Eclair |
 |-----------------------------------------------------------|----------------------|-----------------------|-----|---------|-----|---------------|--------|
 | [Breez](https://bitcoinwallet.guide/lightning/#breez)     |   Y                  |  Y (via swaps)        |  Y  | Y       | Y   | N             | N      |
+| [Eclair](https://bitcoinwallet.guide/mobile/#eclair)      |   Y                  |  Y                    |  N  | Y       | N   | N             | Y      | 
 | [Phoenix](https://bitcoinwallet.guide/lightning/#phoenix) |   Y                  |  Y (via swaps)        |  N  | Y       | N   | N             | Y      |
 | [Zap](https://bitcoinwallet.guide/lightning/#zap)         |   Y                  |  Y                    |  Y  | Y       | Y   | N             | N      |
 | [Zeus](https://bitcoinwallet.guide/lightning/#zeus)       |   Y                  |  Y                    |  Y  | Y       | Y   | Y             | Y      |
