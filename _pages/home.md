@@ -47,7 +47,6 @@ Is your project missing? Please create an [issue](https://github.com/BitcoinQnA/
 -  **Mobile Wallets** - Wallets that run on your phone
    - [Blockstream Green](https://blockstream.com/green/)
    - [Blue Wallet](https://bluewallet.io/)
-   - [Eclair](https://play.google.com/store/apps/details?id=fr.acinq.eclair.wallet.mainnet2)
    - [Electrum](https://play.google.com/store/apps/details?id=org.electrum.electrum&hl=en)
    - [Fully Noded](https://fullynoded.app/)
    - [Hexa](https://hexawallet.io/)
@@ -75,6 +74,7 @@ Is your project missing? Please create an [issue](https://github.com/BitcoinQnA/
     
 -  **Lightning Wallets** - Wallets native to the Lightning Network
     - [Breez](https://breez.technology/)
+    - [Eclair](https://play.google.com/store/apps/details?id=fr.acinq.eclair.wallet.mainnet2)
     - [Phoenix](https://phoenix.acinq.co/)
     - [Zap](https://zaphq.io/)
     - [Zeus](https://zeusln.app/#1#hero-2)
