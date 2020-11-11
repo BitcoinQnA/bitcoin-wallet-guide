@@ -10,7 +10,6 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 
 2.  [Blockstream Green](#blockstream-green)
 3.  [Blue Wallet](#blue-wallet)
-4.  [Eclair](#eclair)
 4.  [Electrum](#electrum)
 5.  [Fully Noded](#fully-noded)
 7.  [Hexa](#hexa)
@@ -70,32 +69,6 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 * [Documentation](http://help.bluewallet.io/en/)
 * [Telegram](https://t.me/bluewallet)
 * [Video](https://youtu.be/imMX7i4qpmg)
-
-***
-
-## Eclair
-
-[Eclair](https://play.google.com/store/apps/details?id=fr.acinq.eclair.wallet.mainnet2) is an Android only mobile app that allows users to seamlessly swap between Bitcoin and Lightning. Eclair allows connection to a user's own node via an Electrum server for improved on-chain privacy and runs a stripped down Lightning node on the phone that requires manual channel management. 
-
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/unnamed.png" class=responsive width="220" height="420" maxheight="420">
-
-### Notable Features
-* Connect to own node
-* Supports passphrase 
-* Lightning enabled
-
-### Notable Limitations
-* No native segwit
-* No coin control
-
-### Available on
-* Android
-
-### Other resources
-* [Codebase](https://github.com/ACINQ/eclair-mobile)
-* [Documentation](https://github.com/ACINQ/eclair-mobile)
-* [Contact](https://twitter.com/acinq_co)
-* [Video](https://youtu.be/wq4lF2s4UtI)
 
 ***
 
