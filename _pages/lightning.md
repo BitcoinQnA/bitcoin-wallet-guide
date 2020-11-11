@@ -9,6 +9,7 @@ Lightning native wallets aren't that different from a 'normal' bitcoin wallet, i
 ### Table of Contents
 
 1.  [Breez](#breez)
+2.  [Eclair](#eclair)
 2.  [Phoenix](#phoenix)
 3.  [Zap](#zap)
 4.  [Zeus](#zeus)
@@ -38,6 +39,32 @@ Lightning native wallets aren't that different from a 'normal' bitcoin wallet, i
 * [Documentation](https://github.com/breez/breezmobile)
 * [Telegram](https://t.me/breez_lightning)
 * [Video](https://youtu.be/lcBsn8e-oQ4)
+
+***
+
+## Eclair
+
+[Eclair](https://play.google.com/store/apps/details?id=fr.acinq.eclair.wallet.mainnet2) is an Android only mobile app that allows users to seamlessly use both Bitcoin and Lightning. Eclair allows connection to a user's own node via an Electrum server for improved on-chain privacy and runs a stripped down Lightning node on the phone that requires manual channel management. 
+
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/unnamed.png" class=responsive width="220" height="420" maxheight="420">
+
+### Notable Features
+* Connect to own node
+* Supports passphrase 
+* Lightning enabled
+
+### Notable Limitations
+* No native segwit
+* No coin control
+
+### Available on
+* Android
+
+### Other resources
+* [Codebase](https://github.com/ACINQ/eclair-mobile)
+* [Documentation](https://github.com/ACINQ/eclair-mobile)
+* [Contact](https://twitter.com/acinq_co)
+* [Video](https://youtu.be/wq4lF2s4UtI)
 
 ***
 
