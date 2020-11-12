@@ -187,12 +187,14 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 * Runs over Tor
 * Coinjoin + Payjoin
 * Coin control
+* PayNyms (BIP47 stealth addresses)
 
 ### Notable Limitations
 * Still in alpha phase, expect occasional UX bugs
 
 ### Available on
 * Android
+* Whirlpool desktop and headless (CLI) on MacOS, Windows, Linux (Android Wallet still required)
 
 ### Other resources
 * [Codebase](https://code.samourai.io/wallet/samourai-wallet-android)
