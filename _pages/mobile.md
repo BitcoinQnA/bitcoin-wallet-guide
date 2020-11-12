@@ -194,7 +194,7 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 
 ### Available on
 * Android
-* Whirlpool desktop and headless (CLI) on MacOS, Windows, Linux
+* Whirlpool desktop and headless (CLI) on MacOS, Windows, Linux (Android Wallet still required)
 
 ### Other resources
 * [Codebase](https://code.samourai.io/wallet/samourai-wallet-android)
