@@ -11,7 +11,7 @@ This page contains a key feature comparison for each type of wallet detailed on 
 | Wallet                                                                     | Connect to own node  | Coin control | iOS | Android | Lightning | Native Segwit | Tor |
 |----------------------------------------------------------------------------|----------------------|--------------|-----|---------|-----------|---------------|-----|
 | [Blockstream Green](https://bitcoinwallet.guide/mobile/#blockstream-green) |   Y                  |  N           |  Y  |   Y     |      N    |    N          |  Y  |
-| [Blue Wallet](https://bitcoinwallet.guide/mobile/#blue-wallet)             |    Y                 |  N           |  Y  |    Y    |   Y       |    Y          |  N  |
+| [Blue Wallet](https://bitcoinwallet.guide/mobile/#blue-wallet)             |    Y                 |  Y           |  Y  |    Y    |   Y       |    Y          |  N  |
 | [Electrum](https://bitcoinwallet.guide/mobile/#electrum)                   |    Y                 |    Y         |  N  |   Y     |     Y     |     Y         |  Y  |
 | [Fully Noded](https://bitcoinwallet.guide/mobile/#fully-noded)             |     Y                |     Y        |  Y  |    N    |    Y      |     Y         |  Y  |
 | [Hexa](https://bitcoinwallet.guide/mobile/#hexa)                           |      N               |      N       |  Y  |     Y   |     N     |     Y         |  N  |
