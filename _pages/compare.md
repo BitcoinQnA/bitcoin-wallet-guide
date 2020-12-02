@@ -27,7 +27,7 @@ This page contains a key feature comparison for each type of wallet detailed on 
 |----------------------------------------------------------------------------|----------------------|--------------|-----|---------|-------|------------|-------------|
 | [Bitcoin Core](https://bitcoinwallet.guide/desktop/#bitcoin-core)          |   Y                  |  Y           |  Y  |   Y     |  Y    |    N       |  Y *        |
 | [Blockstream Green](https://bitcoinwallet.guide/desktop/#blockstream-green)|   N                  |  N           |  Y  |   Y     |  Y    |    N       |  N          |
-| [Blue Wallet](https://bitcoinwallet.guide/desktop/#blue-wallet)            |    Y                 |  N           |  Y  |    N    |   N   |    Y       |  Y *        |
+| [Blue Wallet](https://bitcoinwallet.guide/desktop/#blue-wallet)            |    Y                 |  Y           |  Y  |    N    |   N   |    Y       |  Y *        |
 | [Electrum](https://bitcoinwallet.guide/desktop/#electrum)                  |    Y                 |    Y         |  Y  |   Y     |     Y |    Y       |  Y          |
 | [Fully Noded](https://bitcoinwallet.guide/desktop/#fully-noded)            |     Y                |     Y        |  Y  |    N    |    N  |     Y      |  Y *        |
 | [Lily Wallet](https://bitcoinwallet.guide/desktop/#lily-wallet)            |      N               |      N       |  Y  |     Y   |     Y |     N      |  Y          |
