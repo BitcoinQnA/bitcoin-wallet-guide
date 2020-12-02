@@ -56,9 +56,9 @@ Mobile wallets provide the ultimate in convenience when interacting with Bitcoin
 * PSBT and multi-sig
 * Create multiple accounts
 * Buy bitcoin within the app via Hodl Hodl
+* Coin control + labelling
 
 ### Notable Limitations
-* No coin control (*in testing*)
 * No Tor
 
 ### Available on
