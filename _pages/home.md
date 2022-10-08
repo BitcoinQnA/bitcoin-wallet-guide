@@ -63,7 +63,6 @@ Is your project missing? Please create an [issue](https://github.com/BitcoinQnA/
     - [Lily Wallet](https://lily.kevinmulcrone.com/)
     - [Specter Desktop](https://github.com/cryptoadvance/specter-desktop)
     - [Sparrow Wallet](https://www.sparrowwallet.com/)
-    - [Wasabi Wallet](https://wasabiwallet.io/)
 
 -  **Hardware Wallets** - Dedicated devices for keeping your private keys offline
     - [Bitbox](https://shiftcrypto.ch/)
