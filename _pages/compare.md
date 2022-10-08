@@ -33,7 +33,6 @@ This page contains a key feature comparison for each type of wallet detailed on 
 | [Lily Wallet](https://bitcoinwallet.guide/desktop/#lily-wallet)            |      N               |      N       |  Y  |     Y   |     Y |     N      |  Y          |
 | [Specter Desktop](https://bitcoinwallet.guide/desktop/#specter-desktop)    |       Y              |       Y      |   Y |    Y    | Y     |      N     |  Y          |
 | [Sparrow Wallet](https://bitcoinwallet.guide/desktop/#sparrow-wallet)      |        Y             |        Y     |   Y |     Y   | Y     |     N      |  Y          |
-| [Wasabi Wallet](https://bitcoinwallet.guide/desktop/#wasabi-wallet)        |        Y             |        Y     |   Y |     Y   | Y     |     Y      |  Y          |
 
 * *Bitcoin Core hardware wallet support is command line only* 
 * *Blue Wallet hardware wallet support is only supoprted via PSBT* 
