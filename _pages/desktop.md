@@ -16,7 +16,6 @@ Desktop wallets can sometimes offer more usability and often, a greater feature 
 5.  [Lily Wallet](#lily-wallet)
 6.  [Specter Desktop](#specter-desktop)
 7.  [Sparrow Wallet](#sparrow-wallet)
-8.  [Wasabi Wallet](#wasabi-wallet)
 
 ***
 
@@ -240,35 +239,6 @@ Desktop wallets can sometimes offer more usability and often, a greater feature 
 * [Documentation](https://www.sparrowwallet.com/docs/)
 * [Telegram](https://t.me/sparrowwallet)
 * [Contact](https://twitter.com/SparrowWallet)
-
-***
-
-## Wasabi Wallet
-
-[Wasabi](https://wasabiwallet.io/) is privacy focused and comes packaged with Tor, coin control, labelling and coinjoin. Wasabi offers support for all major hardware wallets and can run an internal node or connect to an external instance a user already has setup.     
-
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/Send.png" class=responsive width="630" height="400" maxheight="450">
-
-### Notable Features
-* Connect to own node or run internal
-* PSBT
-* Coin control and labelling
-* Runs over Tor
-
-### Notable Limitations
-* Postmix spend tools lacking
-* Coinjoin implementation suffers from address reuse
-
-### Available on
-* Mac OS
-* Windows
-* Linux
-
-### Other resources
-* [Codebase](https://github.com/zkSNACKs/WalletWasabi/)
-* [Documentation](https://docs.wasabiwallet.io/)
-* [Telegram](https://t.me/WasabiWallet)
-* [Setup Video](https://youtu.be/kocEpndQcsg)
 
 ***
 
