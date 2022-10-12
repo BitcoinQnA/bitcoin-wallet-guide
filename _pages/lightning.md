@@ -29,7 +29,7 @@ Lightning native wallets aren't that different from a 'normal' bitcoin wallet, i
 * Fast onboarding
 
 ### Notable Limitations
-* Requires Google Play services to for 100% functionality
+* Requires Google Play services for 100% functionality
 
 ### Available on
 * iOS + Android
