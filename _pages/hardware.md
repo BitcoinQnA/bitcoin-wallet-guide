@@ -41,29 +41,6 @@ This type of set-up does come with additional hurdles that may be more difficult
 
 ***
 
-## Cobo Vault
-
-[Cobo Vault](https://cobo.com/hardware-wallet) offers three distinct options. The [Essential](https://shop.cobo.com/products/cobo-vault-essential), the [Pro](https://shop.cobo.com/products/cobo-vault) and the [Ultimate](https://shop.cobo.com/products/cobo-vault-ultimate). Their core functionality is the same but you can compare the differences [here](https://cobo.com/hardware-wallet/hardware-wallet-comparison). The Cobo Vault uses a true air gap operation, doing all transaction signing via QR codes and all firmware updates via SD card. The device works with most major desktop applications and allows the user to provide additional entropy when generating a seed which can then be saved via [Shamir](https://medium.com/cobo-vault/why-cobo-vault-implemented-shamir-backups-4665ae379396) backups. Users should ensure they install the Bitcoin only [firmware](https://cobo.com/hardware-wallet/downloads).
-
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoin-wallet-guide/master/images/Cobo%20Vault.png" class=responsive width="250" height="400" maxheight="300">
-
-### Notable Features
-* Completely airgapped operation
-* Large touchscreen
-* PSBT
-* Good range of options for all types of user
-
-### Notable Limitations
-* Companion app (not required for use) cannot connect to own node 
-
-### Other resources
-* [Codebase](https://github.com/CoboVault)
-* [Documentation](https://support.cobo.com/hc/en-us/articles/360045490014-Getting-started-in-5-steps)
-* [Telegram](https://t.me/CoboVault)
-* [Video](https://youtu.be/JnRjvZKulrA)
-
-***
-
 ## Coldcard
 
 [Coldcard](https://coldcardwallet.com/) has been the default hardware wallet option for the more focused bitcoiner for multiple years (for good reason). Coldcard offers a true airgapped operation and achieves all transaction signing and firmware updates via the SD card. The Coldcard has a massive feature set that include encrypted SD card backups, paper wallet generation, user added entropy and [BIP85](https://github.com/bitcoin/bips/blob/master/bip-0085.mediawiki) support for deriving multiple wallets from a single seed. Coldcard is compatible with all major desktop wallet integrations.
