@@ -66,7 +66,6 @@ Is your project missing? Please create an [issue](https://github.com/BitcoinQnA/
 
 -  **Hardware Wallets** - Dedicated devices for keeping your private keys offline
     - [Bitbox](https://shiftcrypto.ch/)
-    - [Cobo Vault](https://cobo.com/hardware-wallet)
     - [Coldcard](https://coldcardwallet.com/)
     - [Specter DIY](https://github.com/cryptoadvance/specter-diy)
     - [Trezor](https://trezor.io/start/)

@@ -43,7 +43,6 @@ This page contains a key feature comparison for each type of wallet detailed on 
 | Wallet                                                             | USB  | PSBT | Backup                  | Price                     | 
 |--------------------------------------------------------------------|------|------|-------------------------|---------------------------|
 | [BitBox02](https://bitcoinwallet.guide/hardware/#bitbox02)         |   Y  |  N   |  SD card (unencrypted)  | $99                       |
-| [Cobo Vault](https://bitcoinwallet.guide/hardware/#cobo-vault)     |   N  |  Y   |  Shamir                 | $99, $149 or $479         | 
 | [Coldcard](https://bitcoinwallet.guide/hardware/#coldcard)         |   Y  |  Y   |  Encrypted to SD card   | $120                      |  
 | [Specter DIY](https://bitcoinwallet.guide/hardware/#specter-diy)   |   N  |  Y   |  Seed only              | $100-$200 depending on HW |  
 | [Trezor](https://bitcoinwallet.guide/hardware/#trezor)             |   Y  |  N   |  Shamir                 | $70 or $210               |
